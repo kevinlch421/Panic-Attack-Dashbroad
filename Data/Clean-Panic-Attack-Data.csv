@@ -1,0 +1,1202 @@
+﻿PANIC_ATTACK_DATA_ID,PANIC_ATTACK_DATA_AGE,PANIC_ATTACK_DATA_GENDER,PANIC_ATTACK_DATA_PANIC_ATTACK_FREQUENCY,PANIC_ATTACK_DATA_DURATION_MINUTES,PANIC_ATTACK_DATA_TRIGGER_REASON,PANIC_ATTACK_DATA_HEART_RATE,PANIC_ATTACK_DATA_SWEATING,PANIC_ATTACK_DATA_SHORTNESS_OF_BREATH,PANIC_ATTACK_DATA_DIZZINESS,PANIC_ATTACK_DATA_CHEST_PAIN,PANIC_ATTACK_DATA_TREMBLING,PANIC_ATTACK_DATA_MEDICAL_HISTORY,PANIC_ATTACK_DATA_MEDICATION,PANIC_ATTACK_DATA_CAFFEINE_INTAKE,PANIC_ATTACK_DATA_EXERCISE_FREQUENCY,PANIC_ATTACK_DATA_SLEEP_HOURS,PANIC_ATTACK_DATA_ALCOHOL_CONSUMPTION,PANIC_ATTACK_DATA_SMOKING,PANIC_ATTACK_DATA_THERAPY,PANIC_ATTACK_DATA_PANIC_SCORE,PANIC_ATTACK_DATA_Panic_Score_HML_,PANIC_ATTACK_DATA_Age_Group_IF,PANIC_ATTACK_DATA_Age_Group_Switch
+1,56,Female,9,5,Caffeine,133,True,False,True,True,False,Anxiety,False,2,3,6.4,5,True,True,5,Medium,Senir,Adult
+2,46,Male,8,9,Stress,138,True,True,False,False,False,PTSD,True,2,5,5,3,False,True,7,Medium,Senir,Adult
+3,32,Female,6,31,PTSD,140,False,True,True,False,False,Depression,False,4,0,8.3,8,False,True,7,Medium,Senir,Adult
+4,60,Male,5,20,Caffeine,108,True,True,False,False,True,Depression,False,3,3,5.3,8,False,False,1,Low,Senir,Adult
+5,25,Non-binary,6,10,Caffeine,100,True,False,True,True,True,Depression,False,3,6,7.2,2,False,False,5,Medium,Senir,Adult
+6,38,Male,0,44,Social Anxiety,153,True,True,True,False,False,Depression,True,1,4,4.8,6,False,False,8,Medium,Senir,Adult
+7,56,Male,0,17,PTSD,107,True,True,True,False,False,Anxiety,False,0,6,6,4,True,True,7,Medium,Senir,Adult
+8,36,Male,7,39,PTSD,119,True,False,False,True,True,PTSD,False,0,4,8.5,8,False,True,2,Low,Senir,Adult
+9,40,Non-binary,1,23,Unknown,120,True,False,False,True,False,Anxiety,False,4,5,4.8,1,False,True,8,Medium,Senir,Adult
+10,28,Female,9,16,Caffeine,143,False,False,True,False,True,Anxiety,False,4,6,7.3,2,False,True,2,Low,Senir,Adult
+11,28,Female,8,20,PTSD,109,False,True,False,False,False,PTSD,False,3,4,5,9,False,False,10,High,Senir,Adult
+12,41,Male,6,14,Caffeine,108,True,True,False,False,False,Anxiety,False,5,6,6.1,4,False,True,1,Low,Senir,Adult
+13,53,Female,5,29,Unknown,96,True,True,False,False,False,Anxiety,False,0,2,6.7,4,False,True,3,Low,Senir,Adult
+14,57,Male,0,24,Unknown,95,True,True,True,False,True,Depression,True,5,5,6.9,9,True,True,3,Low,Senir,Adult
+15,41,Female,0,35,Social Anxiety,116,True,False,False,True,False,Depression,False,0,5,7,6,True,True,6,Medium,Senir,Adult
+16,20,Male,1,8,Caffeine,92,True,True,True,True,True,PTSD,False,5,3,7.2,7,False,False,3,Low,Adolescent,Adolescent
+17,39,Male,5,27,PTSD,157,True,True,True,False,True,Depression,False,5,5,5.4,7,False,True,7,Medium,Senir,Adult
+18,19,Male,5,6,PTSD,134,True,False,False,False,True,Depression,True,0,1,6,0,True,False,8,Medium,Adolescent,Adolescent
+19,41,Female,1,26,Caffeine,100,True,True,False,True,False,PTSD,True,1,3,4.2,0,False,False,3,Low,Senir,Adult
+20,61,Female,0,41,Caffeine,145,True,True,True,False,True,Anxiety,True,1,3,7.8,2,True,True,9,High,Senir,Adult
+21,47,Male,9,12,Caffeine,134,False,False,True,False,True,Anxiety,True,4,6,8.2,0,True,True,1,Low,Senir,Adult
+22,55,Female,4,11,Phobia,97,True,False,False,False,False,Depression,False,5,2,5,0,False,False,3,Low,Senir,Adult
+23,19,Female,4,18,PTSD,135,False,False,False,False,False,Anxiety,True,5,3,5,9,True,False,3,Low,Adolescent,Adolescent
+24,38,Female,1,7,Unknown,122,False,True,True,False,False,None,False,5,0,4.2,7,True,True,7,Medium,Senir,Adult
+25,50,Male,5,20,PTSD,113,True,True,False,True,False,PTSD,True,5,4,8.9,0,True,True,5,Medium,Senir,Adult
+26,29,Male,8,23,Phobia,79,True,False,True,False,True,Anxiety,True,5,4,8,8,False,True,4,Medium,Senir,Adult
+27,39,Female,1,22,Caffeine,130,True,True,True,False,False,Anxiety,False,3,5,5.8,1,True,True,2,Low,Senir,Adult
+28,61,Male,9,20,Social Anxiety,148,False,True,False,False,False,Anxiety,True,2,6,6.4,8,False,True,7,Medium,Senir,Adult
+29,42,Male,1,12,Caffeine,115,False,False,True,False,True,Anxiety,False,5,2,5.5,6,False,True,3,Low,Senir,Adult
+30,44,Female,2,37,Caffeine,143,True,True,True,False,True,Anxiety,True,3,4,7,8,False,True,7,Medium,Senir,Adult
+31,59,Non-binary,6,16,Phobia,129,True,False,False,True,True,Depression,False,1,0,7.6,2,True,True,10,High,Senir,Adult
+32,45,Male,5,15,PTSD,79,False,True,False,True,True,PTSD,False,5,2,6.2,0,False,True,7,Medium,Senir,Adult
+33,33,Male,7,9,Caffeine,99,True,True,True,False,False,PTSD,False,1,1,8.4,0,True,False,2,Low,Senir,Adult
+34,32,Female,7,31,PTSD,131,False,True,False,True,False,Anxiety,True,4,4,6.6,9,False,False,7,Medium,Senir,Adult
+35,64,Male,5,16,Stress,94,False,False,False,True,False,Anxiety,False,2,3,4.7,5,False,False,6,Medium,Senir,Adult
+36,61,Male,9,21,Unknown,139,True,True,True,False,False,Depression,False,0,0,7.1,6,True,True,10,High,Senir,Adult
+37,20,Male,2,10,PTSD,132,True,True,False,False,True,PTSD,False,2,6,6.3,8,False,False,4,Medium,Adolescent,Adolescent
+38,54,Female,2,37,Social Anxiety,118,True,False,True,True,False,PTSD,False,5,6,8.7,5,True,True,5,Medium,Senir,Adult
+39,24,Female,0,9,Unknown,104,True,False,True,False,True,None,True,5,0,6,4,True,False,8,Medium,Adolescent,Adolescent
+40,38,Male,6,32,Social Anxiety,158,True,False,False,False,False,Depression,False,2,4,6,1,False,True,5,Medium,Senir,Adult
+41,26,Male,4,18,Caffeine,143,False,True,False,False,True,Depression,True,2,5,7.3,1,False,True,3,Low,Senir,Adult
+42,56,Male,3,9,Unknown,152,False,True,True,False,False,Anxiety,True,4,1,6.6,7,True,False,2,Low,Senir,Adult
+43,35,Female,9,37,PTSD,142,False,False,True,False,True,Depression,False,1,3,5.9,0,True,False,6,Medium,Senir,Adult
+44,21,Male,3,23,Unknown,121,True,False,True,True,True,Anxiety,True,0,1,8.9,7,True,False,6,Medium,Adolescent,Adolescent
+45,42,Male,3,26,Caffeine,95,False,True,True,True,True,Depression,True,2,1,5.5,9,False,True,7,Medium,Senir,Adult
+46,31,Female,5,9,Phobia,137,False,True,True,False,False,Depression,True,0,4,5.4,6,False,True,8,Medium,Senir,Adult
+47,26,Male,7,6,Social Anxiety,101,True,False,True,False,False,Anxiety,False,2,3,8.3,6,True,True,4,Medium,Senir,Adult
+48,43,Female,7,34,Caffeine,85,True,True,False,False,True,Anxiety,False,1,4,4,4,True,False,8,Medium,Senir,Adult
+49,19,Male,4,43,Phobia,122,True,False,True,False,False,Anxiety,False,0,4,5,2,False,False,1,Low,Adolescent,Adolescent
+50,37,Male,5,8,Unknown,131,False,True,True,False,False,Anxiety,True,3,5,7,6,False,False,6,Medium,Senir,Adult
+51,45,Male,3,37,Unknown,149,True,True,False,False,False,Anxiety,False,1,0,4.8,6,False,True,6,Medium,Senir,Adult
+52,64,Female,8,17,Caffeine,157,False,False,False,True,False,Anxiety,False,0,6,8.9,6,False,False,3,Low,Senir,Adult
+53,24,Female,7,24,PTSD,112,True,True,True,True,True,Anxiety,False,2,5,6.3,1,True,True,9,High,Adolescent,Adolescent
+54,61,Female,9,11,Unknown,124,False,True,True,False,True,Anxiety,True,2,6,7,2,False,True,5,Medium,Senir,Adult
+55,25,Male,9,19,PTSD,146,True,True,False,True,False,None,False,1,5,4.8,2,False,False,1,Low,Senir,Adult
+56,64,Female,0,27,PTSD,156,True,True,True,True,False,Anxiety,False,1,4,5.4,3,False,False,7,Medium,Senir,Adult
+57,52,Male,1,18,PTSD,156,True,False,True,False,False,Anxiety,True,2,5,7.1,8,True,True,10,High,Senir,Adult
+58,31,Male,8,27,Stress,94,True,False,False,False,False,Depression,True,0,6,6.7,9,False,True,3,Low,Senir,Adult
+59,34,Female,7,23,Phobia,149,False,False,True,False,True,PTSD,True,3,5,7.9,0,False,True,10,High,Senir,Adult
+60,53,Male,2,33,Phobia,97,True,True,True,True,False,Depression,False,4,2,5.3,6,False,True,10,High,Senir,Adult
+61,57,Male,7,24,Unknown,80,True,True,True,True,True,Anxiety,True,1,3,7.3,6,False,True,4,Medium,Senir,Adult
+62,21,Male,0,33,Unknown,88,True,True,True,True,False,Depression,False,2,0,5.5,3,False,True,6,Medium,Adolescent,Adolescent
+63,19,Male,9,28,PTSD,128,True,False,True,False,True,PTSD,True,0,6,6.9,0,False,True,8,Medium,Adolescent,Adolescent
+64,23,Male,3,22,Stress,90,True,False,False,True,False,PTSD,False,1,3,7,2,False,False,4,Medium,Adolescent,Adolescent
+65,59,Female,2,14,PTSD,148,True,False,True,False,False,Depression,True,0,0,4.6,4,False,False,9,High,Senir,Adult
+66,21,Male,5,12,Stress,100,False,True,True,False,True,PTSD,False,1,2,6.7,1,True,True,8,Medium,Adolescent,Adolescent
+67,46,Female,6,30,PTSD,110,True,True,True,False,True,PTSD,False,2,4,4.1,6,False,False,10,High,Senir,Adult
+68,35,Female,3,33,Social Anxiety,79,False,True,False,True,False,Depression,True,0,6,6.5,9,False,False,10,High,Senir,Adult
+69,43,Male,6,14,Social Anxiety,132,False,True,False,False,False,Depression,False,2,0,7.5,9,False,True,6,Medium,Senir,Adult
+70,61,Male,8,21,Caffeine,136,True,True,True,False,True,Depression,True,0,0,4.4,6,False,True,7,Medium,Senir,Adult
+71,51,Male,1,6,PTSD,148,True,False,False,False,False,PTSD,False,1,0,8.7,9,False,False,8,Medium,Senir,Adult
+72,27,Female,2,10,Unknown,96,True,True,True,False,False,Anxiety,False,4,2,6.3,4,False,False,2,Low,Senir,Adult
+73,53,Male,4,9,Phobia,84,False,True,True,True,True,None,True,4,3,8.7,9,True,False,5,Medium,Senir,Adult
+74,31,Female,2,32,Caffeine,123,False,True,True,False,True,Anxiety,True,3,2,4.5,5,True,False,7,Medium,Senir,Adult
+75,48,Male,7,9,Unknown,101,True,False,True,True,False,Depression,True,3,0,8.7,0,True,True,8,Medium,Senir,Adult
+76,32,Female,9,22,Social Anxiety,101,False,True,True,True,False,PTSD,False,5,5,4.5,3,False,True,5,Medium,Senir,Adult
+77,25,Male,7,30,PTSD,104,True,False,False,True,False,Anxiety,False,2,0,6.3,3,True,True,3,Low,Senir,Adult
+78,31,Male,7,24,Caffeine,155,False,False,True,False,False,Depression,False,0,5,8.7,7,True,True,6,Medium,Senir,Adult
+79,40,Non-binary,8,31,PTSD,85,False,True,False,False,True,Anxiety,True,3,4,5.2,1,True,True,5,Medium,Senir,Adult
+80,57,Female,3,16,Social Anxiety,157,True,False,True,True,True,Anxiety,True,1,2,4.2,0,False,True,8,Medium,Senir,Adult
+81,38,Male,4,11,Caffeine,122,True,True,True,False,True,Anxiety,False,4,5,8,6,False,True,9,High,Senir,Adult
+82,33,Female,4,7,Social Anxiety,105,True,True,True,True,True,Anxiety,True,0,2,7,5,True,True,9,High,Senir,Adult
+83,62,Female,7,14,Stress,104,True,False,False,False,False,Anxiety,False,5,1,6.6,4,False,True,6,Medium,Senir,Adult
+84,35,Female,6,38,Social Anxiety,157,False,False,True,True,False,None,True,4,3,4.2,7,False,True,4,Medium,Senir,Adult
+85,64,Female,8,29,PTSD,114,True,True,False,True,True,None,True,0,1,7.3,1,True,True,4,Medium,Senir,Adult
+86,41,Male,7,39,Phobia,133,True,True,True,False,True,Anxiety,False,3,5,4.9,1,False,True,9,High,Senir,Adult
+87,43,Male,1,20,Social Anxiety,142,True,True,True,True,False,PTSD,False,3,1,8.7,8,False,False,4,Medium,Senir,Adult
+88,42,Male,9,6,Unknown,135,False,True,True,False,False,Anxiety,False,2,6,7.4,0,True,False,8,Medium,Senir,Adult
+89,62,Female,3,28,Phobia,147,True,True,True,True,False,Anxiety,True,5,3,7.5,5,True,True,9,High,Senir,Adult
+90,58,Female,5,14,Stress,139,True,True,True,False,False,Anxiety,True,0,5,5.2,2,False,True,5,Medium,Senir,Adult
+91,46,Male,1,42,Caffeine,80,True,True,True,True,False,None,False,5,4,8.4,4,False,False,6,Medium,Senir,Adult
+92,32,Male,6,26,Caffeine,133,False,False,False,False,False,None,False,1,4,6.7,7,True,False,3,Low,Senir,Adult
+93,62,Female,2,30,Phobia,158,False,True,True,False,True,Anxiety,False,5,3,8.3,6,False,False,5,Medium,Senir,Adult
+94,18,Non-binary,2,43,Caffeine,116,True,True,False,True,True,Anxiety,True,3,3,5.4,3,False,True,5,Medium,Adolescent,Adolescent
+95,42,Female,1,31,Social Anxiety,158,True,True,True,False,True,Anxiety,False,2,5,7.8,7,False,False,2,Low,Senir,Adult
+96,24,Male,7,33,Phobia,156,True,False,False,True,False,Depression,False,3,2,6.9,9,True,False,10,High,Adolescent,Adolescent
+97,26,Male,5,42,PTSD,107,True,True,False,False,False,Depression,False,4,6,4.2,1,False,False,6,Medium,Senir,Adult
+98,41,Male,0,24,Social Anxiety,104,True,True,True,True,False,Anxiety,False,3,5,6,6,False,True,9,High,Senir,Adult
+99,18,Non-binary,0,31,Social Anxiety,113,False,True,True,False,True,PTSD,False,0,2,4.9,4,False,False,7,Medium,Adolescent,Adolescent
+100,61,Male,6,24,Social Anxiety,157,True,False,False,False,True,Anxiety,False,2,2,5.8,5,False,False,8,Medium,Senir,Adult
+101,25,Female,7,23,PTSD,145,False,True,False,False,True,None,False,0,2,5.9,2,False,False,2,Low,Senir,Adult
+102,41,Male,4,24,Stress,107,True,False,True,False,True,Depression,False,1,5,6.4,9,False,True,9,High,Senir,Adult
+103,28,Female,4,39,Unknown,112,False,False,True,False,False,Depression,False,1,0,7,6,False,False,3,Low,Senir,Adult
+104,34,Female,3,6,Caffeine,119,False,False,False,False,False,PTSD,False,3,0,6.9,6,False,True,10,High,Senir,Adult
+105,25,Female,5,34,Phobia,119,True,False,True,False,False,PTSD,False,2,4,4.2,1,False,True,5,Medium,Senir,Adult
+106,52,Male,5,38,Stress,101,True,True,False,False,False,Anxiety,True,5,0,7.8,0,True,False,7,Medium,Senir,Adult
+107,52,Male,2,26,Phobia,149,True,True,True,True,False,Anxiety,True,2,0,8.7,9,False,True,4,Medium,Senir,Adult
+108,50,Male,8,7,Caffeine,81,True,False,True,False,False,None,True,2,2,5.7,1,True,False,7,Medium,Senir,Adult
+109,22,Non-binary,6,10,PTSD,136,True,True,False,False,True,Anxiety,True,2,2,4.9,7,False,False,8,Medium,Adolescent,Adolescent
+110,59,Female,0,19,Social Anxiety,110,True,True,False,False,False,Anxiety,True,3,3,6.7,9,False,True,10,High,Senir,Adult
+111,56,Female,6,31,Social Anxiety,109,False,False,True,False,False,Depression,True,0,2,7.5,2,False,False,10,High,Senir,Adult
+112,58,Female,4,14,PTSD,121,True,True,True,True,False,PTSD,True,3,5,7.4,3,True,False,4,Medium,Senir,Adult
+113,45,Female,4,13,Stress,85,False,True,False,False,True,PTSD,False,5,3,7.1,7,False,True,5,Medium,Senir,Adult
+114,24,Male,1,37,Stress,79,True,True,False,True,True,None,True,0,6,4.7,2,False,False,3,Low,Adolescent,Adolescent
+115,26,Non-binary,3,36,Phobia,139,False,True,True,True,True,Depression,True,5,3,8.2,5,True,True,5,Medium,Senir,Adult
+116,25,Male,5,10,PTSD,92,True,False,False,True,False,Anxiety,False,4,0,6.1,1,False,True,8,Medium,Senir,Adult
+117,29,Male,9,40,Stress,130,False,True,False,False,True,Depression,False,4,2,5.1,2,False,True,3,Low,Senir,Adult
+118,51,Female,6,6,PTSD,84,True,True,False,True,False,PTSD,False,0,0,4.4,0,False,True,5,Medium,Senir,Adult
+119,50,Male,4,33,Caffeine,88,True,True,False,True,False,Anxiety,False,3,2,6.1,8,False,True,10,High,Senir,Adult
+120,40,Male,8,8,Social Anxiety,149,True,False,True,False,True,Anxiety,False,5,0,7.1,3,False,False,1,Low,Senir,Adult
+121,41,Female,2,5,Social Anxiety,108,True,False,False,True,False,Anxiety,False,5,6,7.3,5,False,False,2,Low,Senir,Adult
+122,54,Male,0,23,Social Anxiety,99,True,True,False,True,False,Depression,False,1,0,8.8,6,True,False,3,Low,Senir,Adult
+123,52,Female,3,30,PTSD,138,True,False,True,True,True,PTSD,False,5,0,4.8,1,True,True,1,Low,Senir,Adult
+124,61,Male,8,29,PTSD,152,True,True,True,True,False,Depression,False,3,5,8.9,7,False,False,9,High,Senir,Adult
+125,57,Male,3,14,Phobia,141,False,False,True,False,True,None,False,1,6,7.3,8,False,True,9,High,Senir,Adult
+126,39,Male,1,19,Social Anxiety,120,True,True,False,True,True,Anxiety,False,3,4,6.3,9,True,True,5,Medium,Senir,Adult
+127,44,Male,9,26,Phobia,129,True,False,True,False,False,None,True,2,6,8.4,1,True,True,4,Medium,Senir,Adult
+128,52,Female,4,25,Social Anxiety,142,False,True,False,False,False,PTSD,False,5,0,7.5,4,False,True,5,Medium,Senir,Adult
+129,18,Male,2,26,Phobia,154,True,True,False,True,False,Anxiety,False,2,1,5.7,1,False,True,4,Medium,Adolescent,Adolescent
+130,52,Female,8,40,Phobia,134,True,True,False,True,False,None,False,4,1,8.4,4,True,False,5,Medium,Senir,Adult
+131,54,Female,3,38,Caffeine,158,True,False,False,False,False,Anxiety,False,4,1,7.3,6,False,False,7,Medium,Senir,Adult
+132,64,Female,5,34,Phobia,119,False,True,False,False,False,PTSD,False,0,5,7.5,5,True,True,8,Medium,Senir,Adult
+133,31,Non-binary,1,29,PTSD,110,False,False,True,True,False,PTSD,False,5,3,8.5,3,False,True,2,Low,Senir,Adult
+134,20,Female,5,32,Phobia,93,False,True,False,True,False,PTSD,False,1,0,6.2,1,False,True,4,Medium,Adolescent,Adolescent
+135,18,Male,2,5,Social Anxiety,140,True,True,True,False,True,Depression,True,2,6,7.3,6,False,False,8,Medium,Adolescent,Adolescent
+136,22,Male,8,8,Phobia,105,False,True,False,True,False,Anxiety,False,3,1,7.7,9,False,False,7,Medium,Adolescent,Adolescent
+137,43,Male,1,11,Stress,106,True,False,True,True,True,Depression,True,5,5,6.3,8,False,False,9,High,Senir,Adult
+138,31,Female,8,13,Unknown,142,True,True,False,False,False,Anxiety,True,0,3,4.4,0,True,False,5,Medium,Senir,Adult
+139,56,Male,4,40,Social Anxiety,137,True,False,False,False,True,PTSD,False,3,1,7.9,2,True,True,6,Medium,Senir,Adult
+140,44,Female,7,23,Stress,136,True,False,False,True,False,PTSD,True,2,2,4.2,6,False,False,8,Medium,Senir,Adult
+141,26,Female,1,5,Social Anxiety,80,True,False,True,False,True,None,False,5,4,7.6,8,False,True,5,Medium,Senir,Adult
+142,32,Male,5,14,PTSD,114,True,True,True,True,True,Anxiety,True,2,0,8.6,4,False,True,9,High,Senir,Adult
+143,32,Female,2,40,Unknown,149,True,False,False,False,False,PTSD,True,5,4,5.7,6,False,False,4,Medium,Senir,Adult
+144,43,Male,9,13,Unknown,91,True,False,True,False,True,None,False,5,4,4.5,9,False,True,8,Medium,Senir,Adult
+145,59,Male,4,36,PTSD,93,False,True,False,False,False,PTSD,True,2,2,5.2,6,True,False,3,Low,Senir,Adult
+146,30,Female,7,36,Unknown,138,True,False,True,False,True,Anxiety,False,2,2,6.8,3,False,True,5,Medium,Senir,Adult
+147,49,Female,9,10,PTSD,100,False,True,False,False,True,Anxiety,False,3,2,8.7,4,False,False,8,Medium,Senir,Adult
+148,56,Female,0,42,Stress,141,True,True,True,False,True,Anxiety,False,0,3,6.6,1,False,True,10,High,Senir,Adult
+149,49,Male,4,21,Caffeine,153,False,True,False,False,False,Depression,False,2,1,4.6,7,False,True,7,Medium,Senir,Adult
+150,21,Male,2,14,Social Anxiety,152,True,True,False,True,True,Depression,False,4,6,7.1,0,False,False,1,Low,Adolescent,Adolescent
+151,47,Female,3,31,PTSD,103,True,True,True,False,False,None,False,0,0,7.7,1,False,False,4,Medium,Senir,Adult
+152,54,Female,1,39,Social Anxiety,126,True,True,True,False,True,Anxiety,False,4,2,6,2,False,False,2,Low,Senir,Adult
+153,40,Female,8,25,Stress,121,True,False,True,False,True,Anxiety,True,3,5,7.6,6,False,False,2,Low,Senir,Adult
+154,56,Male,2,29,Caffeine,116,False,True,False,True,True,Depression,False,2,0,5.6,5,False,False,7,Medium,Senir,Adult
+155,62,Female,1,32,Stress,119,True,True,False,False,True,PTSD,False,0,6,7.9,6,False,False,3,Low,Senir,Adult
+156,32,Male,9,19,Unknown,123,True,True,False,False,False,None,False,2,0,5.7,4,False,True,3,Low,Senir,Adult
+157,60,Male,8,8,Social Anxiety,118,False,True,False,False,False,PTSD,False,5,0,5.3,3,False,True,6,Medium,Senir,Adult
+158,46,Non-binary,6,33,Caffeine,95,True,False,True,False,False,Depression,False,2,2,8.4,6,False,True,6,Medium,Senir,Adult
+159,53,Male,5,13,Unknown,135,True,True,True,True,True,Depression,False,0,2,6.7,2,False,False,1,Low,Senir,Adult
+160,30,Non-binary,0,31,Caffeine,80,True,False,True,True,True,PTSD,False,2,1,5.4,9,False,True,1,Low,Senir,Adult
+161,49,Male,4,30,Unknown,140,True,True,True,True,True,Depression,True,2,6,8.7,6,True,False,6,Medium,Senir,Adult
+162,24,Male,2,23,Stress,87,True,False,False,True,False,Anxiety,True,1,2,7.5,1,False,False,7,Medium,Adolescent,Adolescent
+163,39,Female,0,32,PTSD,146,True,True,False,False,True,Anxiety,False,1,2,5.1,7,False,False,9,High,Senir,Adult
+164,45,Female,3,21,Social Anxiety,95,False,True,True,False,False,Anxiety,False,0,0,7.1,5,True,True,4,Medium,Senir,Adult
+165,19,Female,1,24,Phobia,128,True,False,False,False,True,PTSD,True,0,1,8.4,2,False,True,10,High,Adolescent,Adolescent
+166,59,Female,1,44,Phobia,118,True,True,False,False,True,Anxiety,True,5,4,7.5,2,False,False,6,Medium,Senir,Adult
+167,62,Female,2,43,Stress,136,True,False,True,True,True,Anxiety,True,5,2,5.2,4,False,True,3,Low,Senir,Adult
+168,23,Female,7,27,Social Anxiety,153,False,False,True,True,True,Anxiety,False,2,5,7.2,2,False,True,4,Medium,Adolescent,Adolescent
+169,45,Female,7,36,Social Anxiety,99,False,True,True,True,False,Depression,False,4,2,7.1,5,False,True,9,High,Senir,Adult
+170,45,Male,6,37,Stress,96,True,True,False,True,True,Anxiety,False,0,4,8.1,1,True,True,1,Low,Senir,Adult
+171,61,Female,5,9,Social Anxiety,133,False,True,False,False,False,Depression,True,2,0,4.9,7,False,True,5,Medium,Senir,Adult
+172,61,Male,8,38,PTSD,107,True,False,False,True,True,Anxiety,True,4,6,7.5,8,True,False,7,Medium,Senir,Adult
+173,37,Non-binary,3,44,Stress,102,True,False,True,True,False,Anxiety,True,1,1,4.1,6,True,True,3,Low,Senir,Adult
+174,47,Non-binary,0,15,PTSD,152,True,True,True,True,True,Depression,True,5,0,7.5,2,False,False,2,Low,Senir,Adult
+175,28,Male,7,7,Social Anxiety,95,True,True,False,False,False,Anxiety,False,0,6,8.8,9,False,True,2,Low,Senir,Adult
+176,45,Female,6,37,Stress,96,True,True,False,False,False,Anxiety,False,2,3,4.9,3,False,False,1,Low,Senir,Adult
+177,42,Non-binary,6,15,Social Anxiety,120,False,False,False,False,False,Anxiety,True,1,2,5.6,9,False,False,5,Medium,Senir,Adult
+178,56,Male,2,20,Stress,123,True,True,False,False,True,PTSD,True,3,6,6.9,1,False,True,3,Low,Senir,Adult
+179,50,Female,3,22,Social Anxiety,95,False,True,True,False,False,Depression,True,1,5,7.7,8,False,True,7,Medium,Senir,Adult
+180,18,Non-binary,9,34,PTSD,151,True,False,False,True,True,Anxiety,False,2,6,5.7,4,False,True,1,Low,Adolescent,Adolescent
+181,44,Male,8,14,PTSD,92,True,True,False,False,True,Anxiety,True,5,3,7.3,1,True,False,9,High,Senir,Adult
+182,30,Female,5,22,Social Anxiety,127,True,True,True,False,True,None,True,4,2,8.5,9,True,False,2,Low,Senir,Adult
+183,58,Male,4,42,Stress,107,True,False,False,False,True,Depression,True,3,3,7.6,5,False,False,8,Medium,Senir,Adult
+184,20,Non-binary,2,23,Phobia,82,True,False,True,False,False,Depression,False,3,4,7.6,6,True,True,10,High,Adolescent,Adolescent
+185,56,Non-binary,8,40,PTSD,98,True,True,True,True,True,PTSD,False,5,2,5.9,1,False,True,4,Medium,Senir,Adult
+186,23,Non-binary,4,17,PTSD,125,True,True,True,False,False,PTSD,False,3,5,8.6,0,False,True,6,Medium,Adolescent,Adolescent
+187,25,Female,4,7,Unknown,87,True,True,True,True,False,PTSD,True,0,2,5.4,6,True,True,9,High,Senir,Adult
+188,44,Female,3,14,Phobia,155,False,True,True,False,False,Depression,False,2,3,5,0,False,False,7,Medium,Senir,Adult
+189,26,Female,3,42,Social Anxiety,157,True,False,True,True,False,Depression,False,3,1,5.8,2,True,True,8,Medium,Senir,Adult
+190,54,Male,0,5,Stress,105,True,True,False,True,True,Anxiety,True,1,3,7.3,3,False,False,7,Medium,Senir,Adult
+191,50,Female,6,31,Unknown,93,True,False,True,False,False,None,True,4,2,8.3,1,False,False,2,Low,Senir,Adult
+192,59,Male,8,12,Social Anxiety,97,False,False,True,False,True,Depression,False,2,2,4.7,6,False,False,9,High,Senir,Adult
+193,61,Female,2,21,Caffeine,130,False,True,True,True,False,Anxiety,True,5,6,8.1,4,True,True,1,Low,Senir,Adult
+194,41,Male,1,13,PTSD,104,True,True,False,False,False,None,False,1,1,8.1,0,False,False,2,Low,Senir,Adult
+195,32,Male,2,10,Caffeine,104,True,True,True,False,False,None,False,0,0,6.9,7,True,False,3,Low,Senir,Adult
+196,49,Male,0,29,PTSD,104,True,False,True,True,True,None,False,3,1,7.8,9,False,False,3,Low,Senir,Adult
+197,49,Female,5,43,PTSD,124,False,False,False,False,True,PTSD,True,1,0,4.9,6,False,False,10,High,Senir,Adult
+198,41,Male,6,32,Caffeine,127,True,True,False,False,True,None,False,2,5,4.8,3,False,False,4,Medium,Senir,Adult
+199,58,Female,1,37,Caffeine,131,True,False,False,False,True,Anxiety,False,1,2,8.3,1,False,False,5,Medium,Senir,Adult
+200,29,Male,7,41,Social Anxiety,81,True,True,True,True,True,PTSD,True,0,6,6.5,6,False,True,6,Medium,Senir,Adult
+201,56,Male,5,13,Unknown,144,True,False,True,True,False,PTSD,False,4,4,5.2,1,True,False,1,Low,Senir,Adult
+202,19,Female,3,22,Unknown,120,False,True,False,False,True,Anxiety,True,3,4,7.4,5,True,False,8,Medium,Adolescent,Adolescent
+203,20,Female,4,25,Caffeine,97,True,True,True,False,False,Anxiety,True,2,3,8.5,0,False,False,6,Medium,Adolescent,Adolescent
+204,54,Male,7,6,Social Anxiety,95,True,False,True,False,False,None,False,3,1,7.2,6,True,False,10,High,Senir,Adult
+205,34,Female,2,42,Unknown,111,True,True,True,True,False,Anxiety,True,3,1,5.7,6,False,True,9,High,Senir,Adult
+206,19,Female,2,44,Social Anxiety,154,False,True,False,False,True,PTSD,True,5,4,6.4,3,False,False,5,Medium,Adolescent,Adolescent
+207,19,Female,3,40,Social Anxiety,127,False,True,True,False,True,Anxiety,True,3,0,7.8,3,False,False,7,Medium,Adolescent,Adolescent
+208,45,Male,0,41,PTSD,134,True,True,False,True,True,Anxiety,False,1,1,4.3,9,False,True,4,Medium,Senir,Adult
+209,40,Male,8,19,Unknown,141,True,True,False,False,True,Depression,False,1,0,5.1,4,False,True,6,Medium,Senir,Adult
+210,54,Female,7,32,Unknown,81,False,False,True,False,False,Anxiety,True,4,0,6.3,1,False,False,6,Medium,Senir,Adult
+211,49,Male,7,22,PTSD,127,True,True,False,True,True,Depression,False,0,0,7,8,False,True,4,Medium,Senir,Adult
+212,50,Female,9,38,Caffeine,133,True,True,False,False,False,Depression,True,2,0,5.7,9,False,True,6,Medium,Senir,Adult
+213,18,Female,5,26,PTSD,104,True,False,False,True,False,Anxiety,False,1,6,5.5,3,False,True,8,Medium,Adolescent,Adolescent
+214,36,Non-binary,6,15,Unknown,150,False,True,True,False,False,Anxiety,False,3,3,4.2,8,False,False,5,Medium,Senir,Adult
+215,19,Female,5,17,Unknown,130,True,True,False,False,True,Anxiety,False,0,3,4.2,2,False,True,2,Low,Adolescent,Adolescent
+216,61,Non-binary,8,8,Caffeine,85,False,False,True,False,True,Anxiety,False,2,6,5.4,8,False,True,9,High,Senir,Adult
+217,43,Male,2,26,PTSD,124,True,False,False,False,False,PTSD,False,2,4,6.7,0,True,False,4,Medium,Senir,Adult
+218,49,Female,2,11,Stress,124,True,False,True,False,True,Depression,True,2,3,6.8,6,False,False,4,Medium,Senir,Adult
+219,23,Male,2,28,Stress,94,True,False,True,True,True,Anxiety,False,2,5,6.5,3,False,False,7,Medium,Adolescent,Adolescent
+220,49,Female,9,8,Caffeine,102,True,True,False,False,True,Depression,True,4,6,6,6,False,True,10,High,Senir,Adult
+221,21,Female,2,32,PTSD,139,True,False,False,True,True,Anxiety,False,2,1,5.3,9,True,False,10,High,Adolescent,Adolescent
+222,28,Female,8,19,PTSD,132,True,True,False,True,False,Anxiety,True,0,5,6,5,False,True,6,Medium,Senir,Adult
+223,34,Non-binary,3,5,Social Anxiety,140,True,False,True,True,True,Anxiety,True,1,6,4.7,3,False,False,4,Medium,Senir,Adult
+224,55,Female,6,7,Unknown,79,False,True,True,False,False,PTSD,True,0,3,4.6,3,False,False,6,Medium,Senir,Adult
+225,41,Male,8,18,Phobia,127,False,False,False,True,True,None,True,3,1,5.5,7,False,True,3,Low,Senir,Adult
+226,22,Male,6,42,Caffeine,103,True,False,False,True,False,PTSD,False,5,1,9,6,True,False,7,Medium,Adolescent,Adolescent
+227,51,Female,8,5,Phobia,88,True,False,False,True,False,Anxiety,False,4,0,5.6,3,False,True,6,Medium,Senir,Adult
+228,23,Male,2,42,Phobia,158,True,True,True,True,False,Anxiety,False,4,4,8.7,5,False,False,3,Low,Adolescent,Adolescent
+229,39,Male,3,42,Caffeine,94,True,True,True,False,True,Depression,False,3,0,6,5,False,True,1,Low,Senir,Adult
+230,28,Male,7,25,PTSD,136,False,False,False,False,True,PTSD,False,0,6,6.2,0,False,False,10,High,Senir,Adult
+231,33,Male,5,33,Caffeine,150,True,False,False,True,True,None,True,0,0,8,1,True,True,5,Medium,Senir,Adult
+232,50,Male,4,9,Phobia,107,True,True,True,False,False,Anxiety,True,3,5,4.5,3,False,True,10,High,Senir,Adult
+233,26,Male,3,14,Unknown,84,False,False,False,False,False,Anxiety,True,5,3,4.9,5,True,False,2,Low,Senir,Adult
+234,23,Male,7,32,Unknown,94,True,False,False,False,False,Depression,True,2,5,8.9,5,False,False,7,Medium,Adolescent,Adolescent
+235,33,Male,0,25,Unknown,98,True,True,True,False,True,PTSD,True,2,3,6.5,0,False,False,7,Medium,Senir,Adult
+236,46,Non-binary,8,11,PTSD,158,True,False,True,False,False,PTSD,True,1,5,4.2,7,False,True,4,Medium,Senir,Adult
+237,20,Male,0,7,Stress,149,True,True,True,True,True,Depression,True,0,1,4.2,1,False,True,6,Medium,Adolescent,Adolescent
+238,37,Male,7,24,Caffeine,156,True,True,False,False,False,None,True,0,3,8.5,4,False,False,1,Low,Senir,Adult
+239,53,Female,3,23,Unknown,121,False,True,True,False,True,Depression,False,3,3,8.4,3,False,True,2,Low,Senir,Adult
+240,36,Male,8,39,Caffeine,104,False,True,True,False,False,None,True,3,5,6.3,4,False,True,6,Medium,Senir,Adult
+241,43,Non-binary,4,8,Unknown,156,True,False,False,False,True,None,False,2,2,4.8,4,False,False,2,Low,Senir,Adult
+242,20,Female,2,9,PTSD,149,False,True,True,True,True,PTSD,False,0,1,8.2,9,False,True,4,Medium,Adolescent,Adolescent
+243,36,Male,8,5,Stress,111,True,False,True,False,False,Anxiety,False,0,6,5.6,7,False,True,4,Medium,Senir,Adult
+244,37,Male,8,8,Stress,104,False,False,True,False,True,Anxiety,True,4,1,6.1,9,False,True,10,High,Senir,Adult
+245,49,Female,3,16,Unknown,123,True,False,False,True,False,Depression,True,1,6,7.4,6,True,False,9,High,Senir,Adult
+246,24,Non-binary,3,31,PTSD,141,False,True,False,True,False,Depression,True,1,2,5.8,8,False,False,10,High,Adolescent,Adolescent
+247,58,Female,7,27,Social Anxiety,145,False,False,True,False,False,PTSD,True,2,5,7.1,0,False,True,7,Medium,Senir,Adult
+248,50,Female,1,29,Caffeine,130,True,True,False,False,True,Anxiety,True,5,5,8.4,5,False,False,7,Medium,Senir,Adult
+249,57,Male,8,25,Caffeine,146,False,True,False,False,True,Anxiety,False,0,1,8,5,False,True,1,Low,Senir,Adult
+250,56,Non-binary,5,28,Phobia,104,False,True,True,False,False,PTSD,False,4,5,5.9,1,False,False,5,Medium,Senir,Adult
+251,35,Male,8,29,PTSD,153,False,True,True,False,True,Anxiety,False,0,4,5.4,7,False,False,3,Low,Senir,Adult
+252,57,Non-binary,7,36,Phobia,80,True,False,True,True,False,Anxiety,False,3,4,5.4,5,False,False,3,Low,Senir,Adult
+253,18,Female,6,36,Unknown,92,False,True,True,True,True,Anxiety,True,2,6,5.7,9,False,True,6,Medium,Adolescent,Adolescent
+254,28,Female,0,9,Phobia,108,False,False,False,True,True,Depression,False,5,2,6.5,8,False,False,4,Medium,Senir,Adult
+255,45,Female,2,40,Stress,127,True,True,False,True,True,Anxiety,True,1,3,6.1,9,True,False,8,Medium,Senir,Adult
+256,42,Male,1,43,Caffeine,90,False,True,True,True,True,PTSD,False,0,4,4.7,4,False,False,4,Medium,Senir,Adult
+257,40,Male,4,20,Phobia,122,True,False,True,False,True,Depression,False,5,6,4.8,6,False,False,8,Medium,Senir,Adult
+258,48,Male,4,37,Stress,111,True,False,True,False,False,None,False,2,5,5.7,5,False,False,4,Medium,Senir,Adult
+259,47,Male,4,25,PTSD,91,True,True,False,True,False,Depression,True,1,2,6.8,4,True,True,3,Low,Senir,Adult
+260,59,Female,3,13,Phobia,156,True,True,True,True,True,Anxiety,False,0,6,7,5,True,False,5,Medium,Senir,Adult
+261,52,Male,4,10,Unknown,104,True,True,False,True,False,Anxiety,True,4,6,6.4,3,False,False,5,Medium,Senir,Adult
+262,24,Male,2,39,Unknown,99,True,True,True,False,False,Anxiety,True,2,4,7.7,2,True,False,10,High,Adolescent,Adolescent
+263,33,Non-binary,0,43,Unknown,106,False,False,False,True,False,Depression,True,0,0,7.7,0,False,True,10,High,Senir,Adult
+264,43,Female,4,26,Caffeine,126,True,False,False,True,False,Anxiety,True,1,2,6.1,0,False,True,1,Low,Senir,Adult
+265,19,Non-binary,8,9,Phobia,118,True,True,True,False,False,Anxiety,False,1,1,4.6,5,False,True,8,Medium,Adolescent,Adolescent
+266,18,Non-binary,8,27,PTSD,144,True,False,True,False,True,Depression,False,4,6,6.7,8,True,True,8,Medium,Adolescent,Adolescent
+267,29,Male,3,21,Phobia,151,True,True,False,True,True,Anxiety,True,2,4,5.9,7,False,True,8,Medium,Senir,Adult
+268,22,Male,2,16,Caffeine,157,False,True,True,False,True,Anxiety,False,2,1,4.7,1,False,False,10,High,Adolescent,Adolescent
+269,54,Female,0,27,Stress,155,True,True,False,True,False,PTSD,False,5,2,8.9,8,False,True,4,Medium,Senir,Adult
+270,49,Female,1,20,Caffeine,101,False,False,True,False,True,None,False,0,4,5.8,7,False,True,9,High,Senir,Adult
+271,26,Male,7,7,Unknown,126,True,True,False,False,False,Anxiety,False,5,1,7.1,8,False,True,10,High,Senir,Adult
+272,58,Female,0,34,Stress,80,True,True,True,True,True,Anxiety,True,1,3,6.5,3,True,True,3,Low,Senir,Adult
+273,52,Male,7,26,Unknown,98,True,True,False,False,False,None,True,1,6,4.7,8,False,False,7,Medium,Senir,Adult
+274,36,Male,6,13,Social Anxiety,137,True,True,False,True,True,Anxiety,False,4,3,4.3,1,False,True,6,Medium,Senir,Adult
+275,33,Female,7,33,Caffeine,124,True,False,False,True,True,None,False,4,0,7.1,0,False,True,9,High,Senir,Adult
+276,20,Female,5,41,Caffeine,81,True,True,False,True,True,Anxiety,False,2,5,5.2,8,False,False,4,Medium,Adolescent,Adolescent
+277,37,Female,8,27,PTSD,133,True,True,False,False,True,PTSD,False,5,2,5.2,9,False,False,4,Medium,Senir,Adult
+278,41,Male,2,17,Phobia,90,False,False,True,True,True,Anxiety,False,1,5,8.8,7,True,True,6,Medium,Senir,Adult
+279,50,Female,9,36,Stress,118,True,False,False,True,False,None,True,0,5,6.3,6,False,False,8,Medium,Senir,Adult
+280,41,Male,3,27,Stress,144,True,False,False,True,True,Anxiety,True,3,1,4.1,7,False,False,3,Low,Senir,Adult
+281,28,Male,5,21,PTSD,156,True,True,True,True,True,Depression,True,0,0,5.7,0,False,False,8,Medium,Senir,Adult
+282,25,Female,7,44,PTSD,94,True,True,False,False,False,Anxiety,False,4,2,6.9,8,False,True,8,Medium,Senir,Adult
+283,53,Non-binary,4,25,Phobia,112,False,True,False,True,True,Anxiety,False,0,3,5.6,9,False,False,7,Medium,Senir,Adult
+284,55,Female,2,6,Unknown,122,True,True,False,True,False,PTSD,False,1,5,4.1,8,False,True,7,Medium,Senir,Adult
+285,57,Female,5,41,Phobia,84,True,False,True,False,False,Depression,False,5,1,6.2,8,False,True,5,Medium,Senir,Adult
+286,37,Female,3,10,Caffeine,155,False,True,True,False,True,None,False,2,5,4.5,5,True,True,2,Low,Senir,Adult
+287,52,Female,8,22,Unknown,142,True,True,True,False,True,Depression,False,5,4,7.1,3,False,True,2,Low,Senir,Adult
+288,42,Male,2,34,Social Anxiety,100,True,True,True,False,True,PTSD,False,3,3,7.1,1,False,False,10,High,Senir,Adult
+289,52,Male,3,26,Phobia,96,True,True,False,True,False,Depression,True,2,5,4.2,3,False,False,8,Medium,Senir,Adult
+290,42,Male,6,37,PTSD,90,True,False,True,False,False,None,False,3,4,5.5,6,True,True,6,Medium,Senir,Adult
+291,46,Male,6,34,Unknown,130,False,True,True,False,False,None,False,3,4,6.1,0,False,True,8,Medium,Senir,Adult
+292,35,Female,3,21,Phobia,129,False,True,False,True,False,Anxiety,True,1,1,6.8,8,False,True,3,Low,Senir,Adult
+293,63,Female,5,36,Stress,149,False,True,True,False,True,PTSD,True,1,1,5.5,2,False,False,1,Low,Senir,Adult
+294,35,Male,2,18,Social Anxiety,126,True,True,True,True,False,PTSD,False,4,4,5.4,3,False,False,6,Medium,Senir,Adult
+295,19,Male,5,14,Caffeine,97,True,True,True,False,False,Anxiety,True,4,0,8.9,4,False,False,2,Low,Adolescent,Adolescent
+296,52,Female,1,40,Stress,84,False,False,True,False,False,Depression,False,3,5,4.2,2,False,False,9,High,Senir,Adult
+297,33,Male,7,38,Stress,105,True,True,False,False,False,Anxiety,True,5,4,8.9,3,False,False,5,Medium,Senir,Adult
+298,58,Female,1,13,Social Anxiety,131,True,False,False,False,False,PTSD,False,4,4,4.2,4,False,False,5,Medium,Senir,Adult
+299,53,Female,6,32,Caffeine,126,True,False,False,False,True,Anxiety,False,1,1,5.4,0,True,True,10,High,Senir,Adult
+300,50,Female,8,15,PTSD,85,True,False,True,True,True,Anxiety,True,4,5,6.5,8,False,False,8,Medium,Senir,Adult
+301,21,Female,0,18,Unknown,137,True,False,False,False,True,Depression,False,3,2,4.7,9,True,False,6,Medium,Adolescent,Adolescent
+302,50,Female,7,43,Caffeine,147,False,True,True,True,True,Depression,False,2,3,4.7,9,False,False,3,Low,Senir,Adult
+303,31,Male,6,23,Phobia,89,False,True,True,True,False,PTSD,False,5,1,5.3,3,False,False,9,High,Senir,Adult
+304,38,Female,5,19,Stress,93,True,True,True,False,True,None,False,5,5,8.9,8,True,False,10,High,Senir,Adult
+305,37,Female,5,32,Phobia,142,True,False,True,True,False,Depression,False,0,5,5.9,3,False,False,4,Medium,Senir,Adult
+306,25,Male,5,28,PTSD,81,True,False,True,True,False,Anxiety,True,4,6,6.8,0,False,False,10,High,Senir,Adult
+307,24,Female,8,12,Phobia,147,False,False,True,False,True,PTSD,False,5,0,7.5,4,False,True,4,Medium,Adolescent,Adolescent
+308,20,Female,1,13,Caffeine,101,True,True,False,False,False,Depression,False,1,3,7.7,8,True,True,2,Low,Adolescent,Adolescent
+309,34,Female,0,37,Phobia,131,False,False,True,True,False,Depression,True,2,1,7.4,2,False,False,3,Low,Senir,Adult
+310,50,Female,5,37,PTSD,115,True,True,True,True,False,Anxiety,True,1,1,5.7,4,True,True,4,Medium,Senir,Adult
+311,29,Female,9,23,PTSD,87,True,True,True,True,True,Depression,True,4,2,4.6,2,True,False,7,Medium,Senir,Adult
+312,39,Female,7,7,PTSD,93,True,True,False,False,True,Anxiety,False,3,6,5.4,2,True,False,3,Low,Senir,Adult
+313,39,Female,2,14,Caffeine,81,False,True,True,True,True,PTSD,False,0,6,5.1,0,False,False,8,Medium,Senir,Adult
+314,63,Female,9,44,PTSD,148,True,True,False,False,True,Depression,True,0,0,4.7,1,True,False,8,Medium,Senir,Adult
+315,47,Female,0,5,Stress,95,True,True,False,True,False,PTSD,False,2,6,4.1,1,True,True,10,High,Senir,Adult
+316,55,Female,8,33,PTSD,104,True,True,True,True,False,Depression,False,5,0,8.7,8,False,False,2,Low,Senir,Adult
+317,55,Female,0,38,Phobia,99,False,False,True,False,False,Anxiety,True,5,5,8.6,6,False,False,4,Medium,Senir,Adult
+318,62,Male,2,17,Unknown,150,False,False,True,True,False,PTSD,False,5,5,4.3,7,True,True,8,Medium,Senir,Adult
+319,25,Female,7,5,Phobia,99,True,False,False,False,False,Depression,False,0,1,4.9,1,False,True,1,Low,Senir,Adult
+320,44,Female,2,38,Unknown,89,False,True,True,True,True,Anxiety,False,3,2,4.7,8,False,False,1,Low,Senir,Adult
+321,44,Male,3,33,Phobia,116,True,False,True,False,False,Depression,True,5,1,5.4,2,True,False,4,Medium,Senir,Adult
+322,51,Female,7,17,Caffeine,150,True,False,True,False,True,Anxiety,True,1,6,5,9,False,False,2,Low,Senir,Adult
+323,38,Male,0,33,Phobia,113,True,True,False,True,False,PTSD,True,5,4,8.7,1,True,False,1,Low,Senir,Adult
+324,47,Male,5,43,Caffeine,92,True,True,True,True,True,Depression,False,3,5,4.4,0,True,True,8,Medium,Senir,Adult
+325,50,Female,0,28,Caffeine,92,False,True,True,True,True,PTSD,False,2,4,5.1,8,False,True,2,Low,Senir,Adult
+326,45,Male,0,30,PTSD,88,False,True,False,False,False,Anxiety,False,2,6,4.4,7,True,True,4,Medium,Senir,Adult
+327,64,Female,7,21,Stress,90,True,False,False,False,False,Anxiety,True,0,2,8.9,3,True,False,3,Low,Senir,Adult
+328,50,Female,3,11,Unknown,116,True,False,False,False,False,None,True,3,1,8.6,6,False,True,2,Low,Senir,Adult
+329,22,Female,0,17,PTSD,112,False,True,True,False,False,PTSD,False,1,5,7.6,2,False,False,8,Medium,Adolescent,Adolescent
+330,36,Male,9,9,PTSD,119,False,False,False,True,True,Anxiety,False,3,2,6.1,2,False,False,3,Low,Senir,Adult
+331,21,Male,6,30,Caffeine,88,True,False,False,True,False,Anxiety,False,1,1,5,3,False,False,9,High,Adolescent,Adolescent
+332,52,Female,4,7,Caffeine,95,False,False,True,True,True,Anxiety,False,1,1,5.1,1,False,True,10,High,Senir,Adult
+333,34,Non-binary,4,11,Unknown,95,True,True,False,True,False,Depression,True,3,4,6.2,9,False,False,5,Medium,Senir,Adult
+334,61,Female,0,43,Phobia,145,True,False,True,True,False,PTSD,True,4,3,7.8,3,False,True,9,High,Senir,Adult
+335,45,Male,9,5,Phobia,140,False,True,False,False,True,PTSD,True,3,6,5.3,9,False,True,3,Low,Senir,Adult
+336,47,Female,5,21,PTSD,79,True,True,True,False,False,Depression,True,1,0,5.6,2,False,True,5,Medium,Senir,Adult
+337,46,Female,8,29,Social Anxiety,90,True,True,False,False,False,PTSD,True,5,5,7,7,True,False,10,High,Senir,Adult
+338,63,Female,8,7,Social Anxiety,82,True,True,True,True,True,Depression,True,2,0,5.2,1,False,True,6,Medium,Senir,Adult
+339,23,Male,7,19,Phobia,120,False,False,False,False,False,Anxiety,True,2,2,6.9,8,False,False,9,High,Adolescent,Adolescent
+340,52,Female,4,33,Social Anxiety,91,False,True,True,False,False,Depression,True,0,0,5.9,2,False,True,8,Medium,Senir,Adult
+341,58,Female,0,36,Phobia,82,True,True,False,False,False,None,False,2,4,4.2,3,False,True,2,Low,Senir,Adult
+342,54,Non-binary,8,30,Caffeine,147,True,True,False,True,True,PTSD,True,4,3,6,9,False,True,2,Low,Senir,Adult
+343,41,Male,0,20,PTSD,97,True,False,True,True,True,Depression,False,1,5,8.6,9,False,False,5,Medium,Senir,Adult
+344,46,Female,7,29,Stress,80,True,True,False,True,False,Depression,False,3,6,5.5,2,False,False,5,Medium,Senir,Adult
+345,63,Non-binary,4,32,PTSD,90,True,False,False,True,True,None,False,3,1,5.6,2,False,False,5,Medium,Senir,Adult
+346,48,Male,2,13,Phobia,152,False,True,True,False,False,Depression,False,4,1,4.3,7,False,False,4,Medium,Senir,Adult
+347,52,Non-binary,6,5,Phobia,84,True,True,True,True,True,Anxiety,True,2,6,7.1,7,False,False,8,Medium,Senir,Adult
+348,50,Female,6,33,PTSD,86,True,True,False,True,False,None,False,1,4,8.2,5,False,False,5,Medium,Senir,Adult
+349,38,Male,8,26,Unknown,129,True,True,True,False,False,PTSD,False,2,5,5.8,3,False,False,1,Low,Senir,Adult
+350,49,Male,6,20,Phobia,89,True,True,True,False,True,Anxiety,False,0,0,5.2,0,True,False,10,High,Senir,Adult
+351,40,Female,2,11,Social Anxiety,141,False,True,True,False,True,Depression,True,2,6,8.8,3,False,True,5,Medium,Senir,Adult
+352,50,Male,0,18,Social Anxiety,135,True,False,True,False,False,Depression,True,0,1,7.7,7,False,False,1,Low,Senir,Adult
+353,20,Female,7,33,Phobia,90,True,False,True,True,False,Anxiety,True,3,0,6.8,5,False,False,4,Medium,Adolescent,Adolescent
+354,35,Male,2,23,Phobia,151,True,True,True,True,True,None,False,1,4,5.5,1,False,False,1,Low,Senir,Adult
+355,42,Female,7,23,Unknown,80,True,True,False,True,False,Depression,False,5,1,5.1,2,False,False,6,Medium,Senir,Adult
+356,59,Male,7,6,Social Anxiety,86,True,False,False,False,True,PTSD,True,0,2,7.6,6,True,True,6,Medium,Senir,Adult
+357,48,Female,4,19,Phobia,89,True,True,True,False,True,Anxiety,False,2,3,6.6,3,False,False,1,Low,Senir,Adult
+358,20,Non-binary,0,7,Phobia,131,True,True,False,True,False,Depression,False,2,0,6.6,3,False,True,8,Medium,Adolescent,Adolescent
+359,57,Non-binary,9,15,Unknown,88,True,False,False,False,True,Anxiety,False,3,6,4.4,4,False,False,4,Medium,Senir,Adult
+360,63,Female,6,34,Unknown,86,True,False,False,True,False,PTSD,False,4,5,6.6,7,False,False,2,Low,Senir,Adult
+361,41,Male,9,44,PTSD,114,True,True,True,False,True,Depression,False,5,0,8.1,6,False,False,1,Low,Senir,Adult
+362,49,Female,4,22,Unknown,154,False,True,True,True,True,Depression,True,4,0,8.7,8,False,True,3,Low,Senir,Adult
+363,64,Male,7,6,Stress,92,True,True,False,True,True,Anxiety,False,2,0,4.5,4,False,True,7,Medium,Senir,Adult
+364,39,Male,8,36,Social Anxiety,132,True,False,False,False,False,Anxiety,True,4,6,7.2,0,False,True,10,High,Senir,Adult
+365,40,Male,6,12,PTSD,99,True,True,False,False,False,Anxiety,False,5,4,6.8,3,True,True,10,High,Senir,Adult
+366,19,Female,6,26,Stress,128,True,True,False,False,False,Anxiety,False,5,4,8.5,5,False,False,8,Medium,Adolescent,Adolescent
+367,44,Female,0,10,Phobia,117,False,True,True,True,True,Depression,False,1,5,7.8,5,False,False,5,Medium,Senir,Adult
+368,59,Female,3,16,Phobia,98,True,True,False,True,True,Depression,False,4,4,8.8,8,False,False,7,Medium,Senir,Adult
+369,19,Male,1,44,PTSD,85,False,False,True,True,False,Depression,True,1,6,8.8,9,True,False,2,Low,Adolescent,Adolescent
+370,43,Male,1,40,Unknown,87,True,False,True,False,True,Depression,True,2,5,5.1,4,False,True,4,Medium,Senir,Adult
+371,34,Non-binary,1,19,Phobia,79,True,False,False,False,False,Anxiety,False,2,5,7.6,4,False,True,6,Medium,Senir,Adult
+372,57,Male,3,32,Caffeine,104,False,True,True,False,True,Anxiety,True,2,4,6.7,5,False,True,5,Medium,Senir,Adult
+373,50,Female,0,22,PTSD,116,True,True,True,True,False,Anxiety,False,3,1,5.1,5,False,False,6,Medium,Senir,Adult
+374,26,Male,3,6,Stress,116,True,True,False,False,True,PTSD,True,4,4,5,2,False,False,2,Low,Senir,Adult
+375,60,Female,1,17,PTSD,139,True,True,True,False,False,Depression,True,0,1,4.4,5,False,False,7,Medium,Senir,Adult
+376,56,Female,4,19,Social Anxiety,122,False,False,False,False,True,Anxiety,True,5,2,8,7,False,True,8,Medium,Senir,Adult
+377,46,Male,2,24,Unknown,122,True,True,False,True,True,Anxiety,False,0,4,5.6,5,False,True,9,High,Senir,Adult
+378,59,Male,7,33,Unknown,152,False,True,False,False,True,PTSD,False,2,2,8.3,4,False,False,6,Medium,Senir,Adult
+379,43,Female,3,33,PTSD,140,True,True,True,False,True,PTSD,True,4,4,7,2,False,True,7,Medium,Senir,Adult
+380,52,Female,0,7,Phobia,84,False,False,True,False,True,Depression,True,1,2,7.4,0,True,False,1,Low,Senir,Adult
+381,42,Male,0,23,Phobia,95,True,True,True,False,False,Depression,False,0,3,5.5,4,True,True,9,High,Senir,Adult
+382,41,Non-binary,9,7,Caffeine,129,False,True,True,True,False,Anxiety,True,2,2,6.3,5,False,True,6,Medium,Senir,Adult
+383,30,Male,2,18,Caffeine,116,True,True,True,False,False,None,False,0,1,6.1,5,False,False,4,Medium,Senir,Adult
+384,24,Male,8,44,Unknown,102,False,False,False,False,False,PTSD,False,0,0,5.2,5,True,True,10,High,Adolescent,Adolescent
+385,53,Non-binary,6,8,Caffeine,129,True,True,True,True,False,Anxiety,False,5,5,8.2,2,True,False,9,High,Senir,Adult
+386,62,Male,1,15,Stress,88,True,False,False,True,True,PTSD,False,0,2,7.1,3,False,False,1,Low,Senir,Adult
+387,37,Female,8,35,Caffeine,150,True,False,True,True,True,PTSD,False,2,0,4.2,2,False,False,2,Low,Senir,Adult
+388,18,Male,9,36,Stress,99,True,True,False,False,True,Anxiety,False,5,6,8.1,1,True,False,3,Low,Adolescent,Adolescent
+389,25,Male,1,31,Caffeine,148,True,False,False,True,False,Depression,False,2,3,4.5,7,False,False,1,Low,Senir,Adult
+390,63,Non-binary,2,34,Unknown,135,False,True,True,False,True,Anxiety,False,3,3,6,6,False,True,2,Low,Senir,Adult
+391,33,Male,9,6,Unknown,117,False,False,True,True,True,Anxiety,True,3,6,6.9,7,False,False,2,Low,Senir,Adult
+392,31,Female,1,13,Stress,111,True,True,False,False,False,PTSD,False,3,6,4,5,False,False,7,Medium,Senir,Adult
+393,29,Male,2,32,PTSD,137,False,True,False,True,True,Anxiety,True,0,6,7.3,6,True,True,10,High,Senir,Adult
+394,40,Male,5,35,Unknown,96,True,True,False,True,False,PTSD,False,4,1,7.3,0,True,False,6,Medium,Senir,Adult
+395,32,Male,8,38,PTSD,134,True,True,True,False,False,None,False,2,6,7.3,9,True,False,9,High,Senir,Adult
+396,45,Female,8,19,Phobia,135,False,False,True,False,True,Anxiety,True,3,1,4.8,4,True,False,5,Medium,Senir,Adult
+397,51,Male,6,29,Stress,154,True,True,False,True,True,Depression,True,4,2,5.3,3,True,False,9,High,Senir,Adult
+398,19,Female,2,40,Unknown,126,False,False,False,True,True,PTSD,False,3,4,5.2,9,True,True,10,High,Adolescent,Adolescent
+399,49,Female,3,12,Social Anxiety,120,True,True,True,True,False,PTSD,False,3,6,8.8,2,False,False,9,High,Senir,Adult
+400,40,Non-binary,5,13,Phobia,105,True,False,False,False,True,PTSD,False,4,6,4.3,1,True,True,2,Low,Senir,Adult
+401,39,Male,4,41,PTSD,152,True,True,True,False,False,Anxiety,False,3,3,6.1,8,False,True,9,High,Senir,Adult
+402,42,Female,1,43,Unknown,130,True,True,True,False,False,Depression,True,0,0,8.4,7,False,False,3,Low,Senir,Adult
+403,39,Female,5,36,Stress,120,True,True,True,False,True,Depression,False,0,4,7.8,9,False,False,3,Low,Senir,Adult
+404,39,Female,2,21,Caffeine,110,False,False,True,False,True,None,False,5,3,8.1,1,True,True,9,High,Senir,Adult
+405,59,Female,7,39,Social Anxiety,104,False,True,False,True,False,Anxiety,False,0,2,8.9,5,True,False,7,Medium,Senir,Adult
+406,23,Female,1,41,PTSD,103,False,True,True,False,True,None,True,1,6,5.9,2,False,False,8,Medium,Adolescent,Adolescent
+407,32,Female,0,23,Phobia,153,True,True,True,False,False,Anxiety,False,5,3,5.5,2,False,False,7,Medium,Senir,Adult
+408,60,Male,8,33,Stress,101,True,False,False,True,True,None,True,3,1,4.2,4,False,False,9,High,Senir,Adult
+409,54,Male,2,11,Social Anxiety,135,True,True,False,True,False,Depression,True,1,0,4.8,6,False,False,8,Medium,Senir,Adult
+410,50,Non-binary,0,32,Stress,130,True,True,False,True,False,Depression,False,2,0,6.8,6,False,True,4,Medium,Senir,Adult
+411,25,Female,6,13,Unknown,109,True,True,False,True,False,Depression,True,4,1,4.8,9,False,True,2,Low,Senir,Adult
+412,61,Female,9,32,Caffeine,142,False,False,True,False,True,Anxiety,True,2,6,7.7,0,False,False,5,Medium,Senir,Adult
+413,61,Female,4,10,Phobia,149,True,False,False,False,True,Anxiety,False,1,6,4.2,6,False,True,2,Low,Senir,Adult
+414,22,Male,4,33,Stress,111,True,True,False,False,False,Anxiety,False,0,4,5.3,6,False,False,4,Medium,Adolescent,Adolescent
+415,56,Male,0,21,PTSD,80,True,True,False,False,True,Anxiety,False,3,1,7.5,5,False,False,2,Low,Senir,Adult
+416,21,Female,8,20,Unknown,96,True,True,True,False,True,Anxiety,False,5,6,5.3,5,True,False,5,Medium,Adolescent,Adolescent
+417,23,Male,6,27,Unknown,125,True,True,True,False,False,PTSD,False,3,0,7.6,1,False,True,6,Medium,Adolescent,Adolescent
+418,62,Male,7,35,Phobia,111,False,True,False,True,True,Depression,True,0,6,9,2,False,True,1,Low,Senir,Adult
+419,49,Female,8,7,Unknown,113,True,False,True,True,True,Anxiety,True,3,2,8,2,False,True,8,Medium,Senir,Adult
+420,47,Male,5,25,PTSD,129,False,True,False,False,True,PTSD,True,4,6,5.7,2,False,False,2,Low,Senir,Adult
+421,64,Female,4,30,Stress,96,True,False,False,True,False,Depression,False,4,4,8.5,1,False,True,5,Medium,Senir,Adult
+422,52,Male,5,40,Phobia,150,True,True,False,True,False,None,True,4,5,4.3,8,True,False,8,Medium,Senir,Adult
+423,57,Female,1,41,Unknown,108,True,False,False,False,True,Depression,True,2,3,7.6,5,True,True,5,Medium,Senir,Adult
+424,33,Male,3,26,Unknown,122,False,True,False,False,True,Anxiety,False,0,5,4.1,1,True,False,3,Low,Senir,Adult
+425,30,Female,2,16,PTSD,131,False,True,True,True,True,Depression,False,4,2,4.9,2,False,True,6,Medium,Senir,Adult
+426,59,Male,6,17,Caffeine,88,True,True,False,False,False,Depression,False,1,5,8.9,9,False,False,1,Low,Senir,Adult
+427,47,Male,8,15,Caffeine,130,True,True,False,False,True,Anxiety,False,4,6,5.8,5,False,True,1,Low,Senir,Adult
+428,36,Male,4,20,Unknown,127,True,True,True,True,False,Anxiety,True,5,4,8.1,3,False,True,8,Medium,Senir,Adult
+429,34,Female,5,12,Stress,89,True,False,True,True,True,Anxiety,False,2,0,5.9,6,True,False,7,Medium,Senir,Adult
+430,36,Female,9,44,Phobia,144,False,False,True,False,False,Anxiety,False,1,0,8.2,5,True,True,10,High,Senir,Adult
+431,45,Male,1,44,Unknown,136,True,True,False,True,True,Depression,False,0,2,8.8,5,False,False,10,High,Senir,Adult
+432,43,Female,2,6,Social Anxiety,114,True,True,True,True,False,Depression,True,0,5,6.2,2,False,False,3,Low,Senir,Adult
+433,54,Female,2,34,Phobia,111,True,True,False,False,True,Anxiety,False,5,4,6.8,7,False,False,8,Medium,Senir,Adult
+434,43,Female,8,34,Caffeine,125,True,True,True,False,True,Depression,False,4,3,7.1,8,False,False,8,Medium,Senir,Adult
+435,40,Male,6,16,Unknown,91,True,True,True,True,False,Depression,True,1,6,8.7,5,False,True,1,Low,Senir,Adult
+436,26,Female,7,14,PTSD,118,True,False,False,True,False,Anxiety,False,5,5,5.3,1,True,True,10,High,Senir,Adult
+437,29,Male,9,15,Social Anxiety,146,False,False,True,True,True,Anxiety,True,1,5,7.1,0,False,True,7,Medium,Senir,Adult
+438,18,Male,8,19,Unknown,120,False,False,False,False,False,Anxiety,False,4,3,5.6,2,False,True,2,Low,Adolescent,Adolescent
+439,18,Non-binary,5,20,Stress,97,True,True,False,True,False,Anxiety,False,4,1,5.1,2,False,True,2,Low,Adolescent,Adolescent
+440,64,Male,3,21,Social Anxiety,97,False,False,False,False,False,Anxiety,True,3,6,4.4,7,False,True,2,Low,Senir,Adult
+441,51,Female,0,30,Unknown,136,True,False,True,False,True,Anxiety,True,3,2,7.1,4,True,False,5,Medium,Senir,Adult
+442,49,Female,7,6,Stress,101,True,True,False,True,False,Depression,True,4,6,8.4,0,True,False,7,Medium,Senir,Adult
+443,42,Female,6,16,Social Anxiety,132,True,True,False,False,True,Depression,True,2,4,5.8,3,False,True,4,Medium,Senir,Adult
+444,57,Female,1,30,Stress,158,True,False,False,False,True,Anxiety,True,5,2,6.8,6,False,True,4,Medium,Senir,Adult
+445,62,Male,7,27,Stress,143,True,True,True,False,False,Anxiety,True,3,3,7.2,4,False,True,9,High,Senir,Adult
+446,18,Male,4,22,Social Anxiety,90,True,True,False,True,True,Depression,False,4,4,6.1,9,True,True,10,High,Adolescent,Adolescent
+447,33,Female,6,36,Social Anxiety,102,True,True,False,False,True,PTSD,True,1,0,8.5,5,False,False,9,High,Senir,Adult
+448,56,Male,3,42,Stress,112,False,True,False,False,False,PTSD,False,5,0,5.8,9,True,True,7,Medium,Senir,Adult
+449,22,Male,4,7,Caffeine,131,True,True,True,False,False,Depression,False,3,6,4.6,3,True,True,10,High,Adolescent,Adolescent
+450,39,Male,7,42,Social Anxiety,86,True,False,True,True,True,Anxiety,False,2,4,4.7,1,True,False,4,Medium,Senir,Adult
+451,46,Male,0,7,Unknown,96,True,False,True,False,True,Anxiety,False,5,2,8.5,8,False,False,8,Medium,Senir,Adult
+452,20,Male,0,34,Phobia,135,True,False,True,True,False,PTSD,True,5,2,8.9,1,False,False,10,High,Adolescent,Adolescent
+453,29,Male,3,5,PTSD,83,True,True,True,True,True,Anxiety,True,0,0,5.4,1,False,False,3,Low,Senir,Adult
+454,43,Female,2,34,Stress,104,False,False,True,False,False,None,False,1,0,4.7,1,True,True,3,Low,Senir,Adult
+455,33,Female,9,36,Stress,108,True,True,False,False,False,Depression,False,2,3,6.4,0,True,True,7,Medium,Senir,Adult
+456,54,Female,1,32,PTSD,132,True,True,True,False,True,Depression,False,2,4,7.5,2,True,True,9,High,Senir,Adult
+457,39,Male,2,25,Caffeine,91,True,True,False,False,False,Anxiety,False,2,2,7.1,5,False,True,4,Medium,Senir,Adult
+458,46,Male,0,17,PTSD,107,True,True,True,False,False,Depression,False,1,3,8.8,6,True,False,4,Medium,Senir,Adult
+459,31,Male,0,31,Social Anxiety,81,True,True,True,True,True,Depression,False,2,2,8.1,0,False,False,1,Low,Senir,Adult
+460,45,Female,5,40,PTSD,136,True,True,True,False,False,Anxiety,False,0,0,8.3,4,True,True,1,Low,Senir,Adult
+461,22,Female,4,11,Stress,154,True,True,True,True,False,Anxiety,True,3,4,6.7,4,True,True,3,Low,Adolescent,Adolescent
+462,64,Male,7,26,PTSD,80,True,True,False,True,False,PTSD,True,1,1,5.6,0,True,True,7,Medium,Senir,Adult
+463,47,Non-binary,1,14,Phobia,153,True,False,False,False,False,Depression,False,2,4,7.5,3,True,False,9,High,Senir,Adult
+464,63,Male,3,43,Unknown,106,False,True,True,False,True,Depression,False,4,5,6.2,9,False,True,4,Medium,Senir,Adult
+465,22,Female,7,19,Social Anxiety,155,True,False,True,False,True,Anxiety,False,3,1,5.4,0,False,True,2,Low,Adolescent,Adolescent
+466,29,Female,5,19,PTSD,154,False,True,True,False,True,PTSD,True,5,6,4.8,0,False,False,6,Medium,Senir,Adult
+467,33,Female,0,8,Stress,80,False,True,False,True,True,PTSD,False,1,6,6.6,6,True,True,6,Medium,Senir,Adult
+468,43,Female,3,36,Unknown,85,True,False,False,True,True,Depression,True,4,3,7,6,True,True,9,High,Senir,Adult
+469,43,Female,0,27,Social Anxiety,104,True,True,False,False,False,Depression,False,5,1,6.8,2,False,True,4,Medium,Senir,Adult
+470,38,Male,1,10,Stress,154,True,True,False,True,False,Depression,True,4,1,4.6,6,False,True,8,Medium,Senir,Adult
+471,56,Female,4,28,Caffeine,94,True,False,False,True,False,Depression,True,2,3,6.8,2,False,True,3,Low,Senir,Adult
+472,53,Male,7,24,Phobia,101,True,True,True,False,False,Anxiety,True,1,4,4.8,1,False,True,2,Low,Senir,Adult
+473,50,Female,7,41,Caffeine,118,False,False,True,True,False,None,True,2,3,7.3,9,False,False,9,High,Senir,Adult
+474,47,Female,2,24,Phobia,138,False,True,False,True,True,Depression,False,5,5,6.1,3,True,False,6,Medium,Senir,Adult
+475,54,Female,3,16,PTSD,151,True,True,False,False,False,Anxiety,True,0,0,8.2,9,False,False,8,Medium,Senir,Adult
+476,40,Female,9,37,Social Anxiety,110,True,True,False,False,True,Depression,True,4,6,7.9,2,False,False,10,High,Senir,Adult
+477,27,Female,5,32,PTSD,93,True,True,False,False,False,PTSD,False,0,0,7.6,6,False,True,9,High,Senir,Adult
+478,22,Female,9,12,Phobia,91,False,False,True,False,False,Anxiety,False,5,6,7.5,0,False,False,1,Low,Adolescent,Adolescent
+479,53,Female,2,5,Phobia,83,True,False,False,False,True,Anxiety,True,2,1,6.8,5,False,True,1,Low,Senir,Adult
+480,51,Male,1,41,Phobia,153,True,True,False,False,False,Depression,True,3,3,4.3,1,True,True,5,Medium,Senir,Adult
+481,48,Male,5,26,Unknown,152,False,True,True,False,False,Anxiety,False,4,3,7.3,7,False,True,9,High,Senir,Adult
+482,27,Male,4,10,Stress,130,True,False,False,True,True,PTSD,False,3,3,6.3,4,True,True,7,Medium,Senir,Adult
+483,36,Male,9,25,Social Anxiety,155,False,True,False,True,False,Anxiety,True,1,5,6.3,2,False,False,7,Medium,Senir,Adult
+484,49,Female,4,36,PTSD,119,True,True,True,False,True,PTSD,False,4,5,5.9,9,False,True,2,Low,Senir,Adult
+485,18,Male,9,39,PTSD,131,True,True,True,False,True,Anxiety,True,0,4,8.6,6,False,True,3,Low,Adolescent,Adolescent
+486,22,Non-binary,4,19,Caffeine,128,False,True,True,False,False,Anxiety,True,3,2,5.2,1,False,True,4,Medium,Adolescent,Adolescent
+487,62,Male,9,9,Phobia,93,True,False,False,False,False,PTSD,False,5,6,5.6,4,False,True,2,Low,Senir,Adult
+488,21,Male,4,10,Phobia,85,True,False,True,False,False,Depression,False,1,2,8.8,7,True,True,10,High,Adolescent,Adolescent
+489,33,Female,2,29,Phobia,118,True,True,False,False,False,Anxiety,True,4,2,8.1,0,False,True,9,High,Senir,Adult
+490,41,Female,6,44,PTSD,106,True,True,False,False,True,Anxiety,False,5,6,4.1,0,True,True,5,Medium,Senir,Adult
+491,33,Female,5,33,Caffeine,110,True,True,True,True,False,Depression,True,1,4,8.5,2,False,False,7,Medium,Senir,Adult
+492,19,Female,3,11,Stress,93,True,True,False,False,False,Depression,True,0,3,5.1,2,False,True,9,High,Adolescent,Adolescent
+493,45,Female,1,44,Unknown,148,True,True,False,True,False,None,True,5,2,7.5,6,True,True,5,Medium,Senir,Adult
+494,49,Male,8,17,Social Anxiety,143,True,False,True,False,True,None,True,4,3,6.8,5,True,False,6,Medium,Senir,Adult
+495,44,Non-binary,0,42,Stress,82,False,True,True,False,False,Depression,False,1,1,6.7,6,False,False,4,Medium,Senir,Adult
+496,37,Non-binary,3,22,PTSD,89,False,True,False,False,False,Depression,False,2,2,7.6,3,False,True,8,Medium,Senir,Adult
+497,41,Female,0,6,Unknown,104,True,True,False,False,False,Depression,True,4,1,5,1,False,True,1,Low,Senir,Adult
+498,29,Male,5,12,Unknown,139,True,True,True,False,False,Depression,False,4,4,4.8,1,True,False,1,Low,Senir,Adult
+499,52,Female,3,15,Unknown,115,True,True,True,True,True,Anxiety,False,4,0,7.3,9,False,True,5,Medium,Senir,Adult
+500,50,Male,4,37,Phobia,101,True,False,True,True,False,Anxiety,False,4,5,5.5,0,False,False,10,High,Senir,Adult
+501,50,Male,4,42,Social Anxiety,118,False,True,False,False,False,Anxiety,False,2,6,8.9,8,True,True,9,High,Senir,Adult
+502,60,Male,8,31,PTSD,155,False,False,True,False,True,Anxiety,True,5,4,6.3,6,False,False,2,Low,Senir,Adult
+503,54,Female,0,24,PTSD,101,True,True,False,False,False,Anxiety,False,5,4,4.6,9,False,False,3,Low,Senir,Adult
+504,29,Female,1,16,Unknown,94,True,True,False,True,True,Depression,False,5,4,7.4,2,False,False,8,Medium,Senir,Adult
+505,20,Female,5,35,PTSD,139,True,True,True,False,True,PTSD,False,0,2,5.5,1,False,True,5,Medium,Adolescent,Adolescent
+506,18,Female,4,31,Social Anxiety,146,True,True,False,False,False,Depression,False,2,1,4.7,2,False,True,3,Low,Adolescent,Adolescent
+507,50,Male,6,36,Social Anxiety,158,True,True,True,False,True,Anxiety,True,2,5,6.1,6,False,True,6,Medium,Senir,Adult
+508,57,Male,2,14,Caffeine,109,False,True,False,False,True,Anxiety,False,1,2,8.8,4,True,False,6,Medium,Senir,Adult
+509,27,Male,2,7,Caffeine,131,False,False,True,False,False,Depression,True,3,0,6.1,2,False,False,5,Medium,Senir,Adult
+510,60,Non-binary,9,31,Stress,103,True,False,False,False,True,Anxiety,True,5,6,5.7,8,True,True,5,Medium,Senir,Adult
+511,61,Male,1,39,Social Anxiety,122,True,True,False,False,True,Depression,True,3,6,6.2,1,False,False,6,Medium,Senir,Adult
+512,46,Female,2,35,Social Anxiety,90,False,True,True,False,True,None,False,1,5,4.1,6,False,True,2,Low,Senir,Adult
+513,30,Female,9,19,Social Anxiety,87,True,True,True,True,True,Anxiety,True,2,6,4.7,9,True,True,6,Medium,Senir,Adult
+514,29,Male,0,20,Caffeine,90,True,True,True,False,False,Anxiety,False,1,6,8.2,5,True,False,2,Low,Senir,Adult
+515,48,Female,4,17,Unknown,147,True,True,True,True,False,Depression,True,4,4,8.9,5,False,True,3,Low,Senir,Adult
+516,63,Female,4,39,Unknown,132,False,False,False,True,False,None,False,1,3,4.8,6,False,True,2,Low,Senir,Adult
+517,19,Female,6,15,PTSD,132,True,True,False,False,False,PTSD,True,1,0,6.7,5,False,True,1,Low,Adolescent,Adolescent
+518,52,Non-binary,3,25,Unknown,106,True,True,True,True,True,PTSD,False,4,1,8.8,1,False,False,1,Low,Senir,Adult
+519,40,Male,2,15,Phobia,134,False,True,False,False,False,Anxiety,False,3,0,4.8,4,False,False,9,High,Senir,Adult
+520,34,Male,0,34,Caffeine,147,False,True,False,False,False,None,False,4,2,4.9,2,False,False,4,Medium,Senir,Adult
+521,43,Female,7,39,Social Anxiety,155,False,False,False,False,False,Anxiety,True,0,6,8.6,8,True,False,5,Medium,Senir,Adult
+522,25,Non-binary,2,26,Unknown,136,True,True,True,False,False,Anxiety,False,1,3,7.5,7,False,False,10,High,Senir,Adult
+523,46,Male,1,42,Caffeine,156,True,True,True,True,False,PTSD,False,1,2,4.8,9,False,True,7,Medium,Senir,Adult
+524,43,Female,3,35,Unknown,153,False,False,True,False,False,None,False,3,5,6,1,False,False,2,Low,Senir,Adult
+525,27,Female,2,18,Stress,120,False,True,False,True,True,Anxiety,True,2,4,4.3,0,True,False,10,High,Senir,Adult
+526,43,Female,0,28,Social Anxiety,116,True,False,True,False,False,Anxiety,False,4,6,6.2,3,False,False,9,High,Senir,Adult
+527,51,Male,2,36,Stress,146,True,True,True,False,True,Anxiety,True,2,4,7.9,3,False,False,4,Medium,Senir,Adult
+528,58,Female,1,40,Social Anxiety,131,False,True,True,True,True,Anxiety,False,0,0,6.8,9,True,False,10,High,Senir,Adult
+529,24,Non-binary,7,36,Caffeine,111,False,False,False,False,True,Anxiety,False,4,4,7.2,1,False,True,10,High,Adolescent,Adolescent
+530,21,Male,5,19,PTSD,149,True,True,True,False,True,None,True,0,4,5.6,6,False,True,1,Low,Adolescent,Adolescent
+531,62,Male,8,39,Unknown,134,True,True,True,False,True,Depression,False,0,5,4.8,2,True,False,8,Medium,Senir,Adult
+532,28,Non-binary,7,7,Unknown,150,True,True,True,False,True,PTSD,False,0,1,4.1,6,True,False,4,Medium,Senir,Adult
+533,46,Male,9,20,Phobia,129,True,True,True,True,False,PTSD,False,5,1,8.1,6,False,False,7,Medium,Senir,Adult
+534,53,Female,2,9,Stress,152,True,False,False,False,False,Depression,True,4,2,7.2,0,False,True,3,Low,Senir,Adult
+535,42,Female,4,25,Unknown,121,True,False,True,False,False,PTSD,False,4,6,5.1,5,True,True,9,High,Senir,Adult
+536,38,Male,6,14,Caffeine,93,True,False,True,False,True,Depression,False,5,2,6.1,3,True,False,5,Medium,Senir,Adult
+537,53,Female,4,23,PTSD,116,True,False,False,True,False,Anxiety,True,3,1,8,7,False,False,5,Medium,Senir,Adult
+538,27,Male,7,29,Caffeine,93,True,True,True,False,False,Depression,True,5,0,6.7,7,False,False,3,Low,Senir,Adult
+539,54,Female,4,8,Stress,83,False,True,True,True,True,Depression,False,1,1,5.5,2,True,True,9,High,Senir,Adult
+540,26,Male,0,33,Phobia,132,True,True,False,True,False,PTSD,True,2,2,5.3,3,True,False,3,Low,Senir,Adult
+541,41,Female,4,23,Unknown,129,True,True,True,False,False,None,False,2,3,5.1,0,False,False,2,Low,Senir,Adult
+542,52,Male,3,6,Caffeine,88,False,True,True,False,True,Depression,True,0,6,8.1,9,False,False,9,High,Senir,Adult
+543,52,Male,5,14,Social Anxiety,90,True,False,True,False,False,PTSD,True,4,4,6.9,1,False,True,9,High,Senir,Adult
+544,53,Non-binary,2,29,PTSD,82,False,True,True,False,False,Anxiety,False,4,5,7.5,6,False,True,10,High,Senir,Adult
+545,35,Male,4,24,Caffeine,96,False,True,False,False,True,PTSD,False,0,3,8.3,6,False,False,4,Medium,Senir,Adult
+546,56,Female,1,23,PTSD,158,True,True,False,True,True,Anxiety,False,1,3,8.9,8,False,True,4,Medium,Senir,Adult
+547,49,Male,5,27,Unknown,114,False,False,False,False,True,Anxiety,False,2,4,5.2,9,False,False,10,High,Senir,Adult
+548,41,Female,5,28,Social Anxiety,103,True,False,True,True,True,Anxiety,False,5,1,4.9,8,False,True,6,Medium,Senir,Adult
+549,40,Male,4,15,Phobia,154,True,False,True,False,False,Depression,True,3,6,6.3,8,True,False,9,High,Senir,Adult
+550,49,Non-binary,5,38,Phobia,114,True,True,False,True,False,Anxiety,False,1,0,4.2,5,False,True,8,Medium,Senir,Adult
+551,54,Female,6,32,Social Anxiety,145,True,False,False,True,True,None,True,4,3,8,7,False,True,10,High,Senir,Adult
+552,29,Male,4,9,PTSD,87,False,True,True,False,False,Anxiety,False,0,0,8.4,8,False,False,3,Low,Senir,Adult
+553,30,Male,0,9,Unknown,139,True,False,True,True,True,None,True,2,5,7.4,6,False,False,6,Medium,Senir,Adult
+554,40,Male,7,25,Caffeine,131,True,True,True,True,True,PTSD,True,0,5,5.3,3,False,True,7,Medium,Senir,Adult
+555,42,Female,3,16,Social Anxiety,96,True,True,True,False,True,Anxiety,False,4,5,4.6,3,False,True,6,Medium,Senir,Adult
+556,52,Male,8,8,Stress,121,True,True,True,True,False,Anxiety,True,0,2,5.9,5,False,False,3,Low,Senir,Adult
+557,58,Female,9,24,PTSD,113,True,False,True,True,True,PTSD,True,5,3,8.2,3,False,True,9,High,Senir,Adult
+558,47,Male,5,42,Phobia,141,True,True,False,True,True,Depression,False,2,5,5.7,6,False,False,4,Medium,Senir,Adult
+559,34,Male,0,29,Social Anxiety,156,False,False,False,False,True,Depression,False,0,2,4.2,7,False,True,2,Low,Senir,Adult
+560,37,Female,2,18,Phobia,82,True,True,True,False,False,Anxiety,False,2,5,5.4,7,False,False,9,High,Senir,Adult
+561,42,Female,2,15,PTSD,119,False,True,True,False,False,Depression,False,0,1,8.9,7,True,False,3,Low,Senir,Adult
+562,39,Male,9,36,Phobia,123,True,True,False,False,True,None,True,0,3,7.4,1,True,False,6,Medium,Senir,Adult
+563,30,Male,3,15,Social Anxiety,128,False,True,True,True,True,Anxiety,False,2,2,8.5,9,False,True,5,Medium,Senir,Adult
+564,36,Male,5,22,PTSD,157,False,True,False,False,False,Depression,True,5,5,7.9,1,False,False,2,Low,Senir,Adult
+565,53,Female,6,31,Stress,106,True,True,True,True,False,Anxiety,False,0,6,6.7,1,False,True,1,Low,Senir,Adult
+566,29,Female,9,22,Social Anxiety,120,True,False,False,False,True,PTSD,False,5,2,4.7,1,True,False,9,High,Senir,Adult
+567,58,Female,3,27,Caffeine,158,False,True,True,False,False,PTSD,False,1,5,5.7,3,False,True,3,Low,Senir,Adult
+568,36,Female,5,15,Unknown,154,True,False,True,False,False,Anxiety,False,3,1,6.9,4,True,False,7,Medium,Senir,Adult
+569,29,Female,0,25,Social Anxiety,147,False,True,True,True,True,Anxiety,True,1,0,8.4,3,False,True,9,High,Senir,Adult
+570,26,Female,7,9,PTSD,79,True,False,True,True,False,Anxiety,False,3,5,5.3,4,True,False,9,High,Senir,Adult
+571,24,Female,6,27,Unknown,117,True,True,True,False,False,Depression,False,1,0,4.6,3,True,True,10,High,Adolescent,Adolescent
+572,45,Male,8,29,Social Anxiety,95,True,True,False,True,False,Depression,True,3,3,6.8,6,True,True,6,Medium,Senir,Adult
+573,31,Male,2,14,Stress,113,False,True,True,False,True,None,True,0,1,4.9,9,False,True,8,Medium,Senir,Adult
+574,48,Male,1,26,Stress,124,True,True,True,False,True,Depression,False,2,6,7.1,0,False,True,9,High,Senir,Adult
+575,36,Male,0,23,Caffeine,120,False,False,False,False,True,Anxiety,False,2,3,5.3,0,True,True,3,Low,Senir,Adult
+576,64,Female,2,5,Phobia,117,False,True,False,True,True,PTSD,True,4,6,5.2,1,False,True,6,Medium,Senir,Adult
+577,33,Non-binary,4,11,Unknown,127,True,True,False,False,False,Depression,False,3,0,6,0,True,False,5,Medium,Senir,Adult
+578,22,Male,1,8,PTSD,140,True,False,False,False,False,Depression,True,4,1,7,9,False,True,7,Medium,Adolescent,Adolescent
+579,52,Male,2,5,PTSD,116,False,True,True,False,False,Anxiety,True,5,4,6.7,9,False,False,7,Medium,Senir,Adult
+580,29,Female,3,19,Phobia,101,True,False,False,True,False,Anxiety,False,5,1,5.2,2,False,True,9,High,Senir,Adult
+581,42,Non-binary,6,44,Stress,100,False,True,False,True,True,None,True,4,1,8.5,5,False,False,1,Low,Senir,Adult
+582,38,Male,2,16,Stress,82,True,False,False,True,False,Depression,False,3,6,4.5,9,False,True,6,Medium,Senir,Adult
+583,53,Female,8,26,Social Anxiety,127,True,True,True,True,False,Anxiety,True,2,4,4.2,5,False,False,5,Medium,Senir,Adult
+584,40,Male,7,26,Caffeine,137,False,True,True,False,True,Depression,True,3,2,7,0,False,False,4,Medium,Senir,Adult
+585,33,Male,3,21,Unknown,151,True,True,True,False,False,None,True,5,2,4.6,5,False,True,10,High,Senir,Adult
+586,56,Non-binary,0,33,Caffeine,146,True,False,False,True,True,Anxiety,False,0,2,6.5,4,True,False,1,Low,Senir,Adult
+587,62,Non-binary,0,18,Caffeine,149,True,True,False,False,False,Depression,False,4,0,8.8,6,False,True,4,Medium,Senir,Adult
+588,59,Male,0,24,Social Anxiety,80,True,True,False,True,False,None,False,4,1,7.5,5,False,False,10,High,Senir,Adult
+589,56,Non-binary,0,37,Caffeine,127,True,False,True,True,True,Anxiety,True,5,5,7.1,6,False,True,7,Medium,Senir,Adult
+590,31,Female,7,19,Phobia,109,False,False,False,True,False,PTSD,False,3,4,6.9,1,False,True,4,Medium,Senir,Adult
+591,48,Female,2,16,Social Anxiety,118,True,False,False,True,False,Depression,False,4,5,4.9,0,False,True,1,Low,Senir,Adult
+592,22,Female,5,44,Phobia,126,True,False,True,False,True,Depression,False,2,0,6.2,6,True,False,10,High,Adolescent,Adolescent
+593,52,Female,2,24,Social Anxiety,129,True,True,False,True,True,Anxiety,False,4,4,5.7,8,True,True,1,Low,Senir,Adult
+594,40,Female,4,34,Caffeine,121,True,True,True,False,True,Anxiety,False,3,5,8.8,1,False,False,1,Low,Senir,Adult
+595,46,Female,6,42,Phobia,133,True,False,False,False,False,Depression,True,5,6,5.2,6,False,False,10,High,Senir,Adult
+596,60,Male,1,7,Phobia,127,False,False,False,False,False,Anxiety,False,2,0,6.4,2,False,True,5,Medium,Senir,Adult
+597,28,Male,5,32,Phobia,158,False,True,False,True,False,Depression,False,2,0,8.7,5,False,False,7,Medium,Senir,Adult
+598,35,Male,5,30,Social Anxiety,135,True,True,False,True,False,Anxiety,False,4,0,7.9,2,False,False,9,High,Senir,Adult
+599,64,Female,2,34,PTSD,155,True,False,False,True,False,Anxiety,True,3,4,8.8,9,True,False,8,Medium,Senir,Adult
+600,29,Male,5,17,Caffeine,93,True,True,True,False,True,None,True,4,5,7,4,False,False,2,Low,Senir,Adult
+601,26,Female,9,17,Phobia,105,True,True,True,True,False,Depression,False,0,5,5.7,1,False,False,9,High,Senir,Adult
+602,27,Non-binary,9,6,Unknown,146,True,True,False,False,True,None,True,5,3,8.1,7,True,False,4,Medium,Senir,Adult
+603,61,Male,4,41,PTSD,158,True,True,True,False,True,Anxiety,True,0,0,5.5,7,False,True,10,High,Senir,Adult
+604,34,Female,1,42,Unknown,142,True,False,True,False,False,Depression,False,2,2,4.8,6,True,True,5,Medium,Senir,Adult
+605,55,Male,8,6,Caffeine,108,True,True,False,False,True,Anxiety,False,4,1,7.5,5,False,True,5,Medium,Senir,Adult
+606,24,Female,7,40,Caffeine,114,True,False,False,True,False,PTSD,False,0,6,7.2,0,True,True,4,Medium,Adolescent,Adolescent
+607,63,Male,2,30,Phobia,145,False,True,True,False,False,PTSD,False,1,6,8.4,7,False,True,6,Medium,Senir,Adult
+608,30,Female,7,15,Phobia,127,True,True,True,False,True,Anxiety,True,0,3,8.8,0,False,False,1,Low,Senir,Adult
+609,57,Female,8,12,Social Anxiety,154,True,False,True,False,True,None,False,4,3,8.3,7,False,True,2,Low,Senir,Adult
+610,59,Non-binary,2,44,PTSD,133,True,True,True,False,False,Anxiety,True,4,4,4.3,1,False,False,4,Medium,Senir,Adult
+611,26,Female,2,26,PTSD,134,True,True,True,False,False,Depression,False,5,3,7.3,7,True,False,4,Medium,Senir,Adult
+612,44,Female,1,24,Phobia,146,False,True,False,True,True,None,False,0,5,7.9,9,False,True,8,Medium,Senir,Adult
+613,19,Female,7,12,Caffeine,122,True,True,True,True,True,PTSD,True,4,4,8.9,3,False,True,9,High,Adolescent,Adolescent
+614,22,Female,9,33,Phobia,109,True,True,True,True,False,None,True,4,4,5.9,6,False,False,4,Medium,Adolescent,Adolescent
+615,46,Female,0,44,Caffeine,136,True,False,True,True,False,Anxiety,False,5,6,4.8,4,False,False,6,Medium,Senir,Adult
+616,54,Male,7,30,Caffeine,131,False,False,False,True,True,Anxiety,True,5,6,8.3,7,True,False,4,Medium,Senir,Adult
+617,55,Non-binary,6,34,Phobia,157,True,False,True,False,True,Anxiety,True,5,2,5.6,5,True,True,4,Medium,Senir,Adult
+618,36,Female,6,21,Stress,101,True,True,True,False,False,Depression,False,5,0,7,4,False,False,9,High,Senir,Adult
+619,25,Female,2,24,PTSD,106,True,True,True,False,False,PTSD,False,1,3,5.9,0,False,True,4,Medium,Senir,Adult
+620,62,Male,0,20,Unknown,94,True,True,False,False,False,Anxiety,True,2,0,6,2,False,False,6,Medium,Senir,Adult
+621,18,Female,3,11,Caffeine,115,True,True,False,False,False,Depression,False,4,0,7.7,9,False,False,9,High,Adolescent,Adolescent
+622,39,Male,8,20,Caffeine,99,True,True,True,True,False,Anxiety,False,3,0,5.8,8,False,True,3,Low,Senir,Adult
+623,34,Female,4,31,Stress,157,True,True,True,True,True,Anxiety,True,5,4,7.5,8,False,True,7,Medium,Senir,Adult
+624,24,Male,0,27,Unknown,95,False,False,True,False,False,Depression,False,2,0,4.1,4,False,True,7,Medium,Adolescent,Adolescent
+625,42,Female,4,28,Social Anxiety,115,True,True,False,True,True,Depression,True,5,3,5.6,2,False,True,1,Low,Senir,Adult
+626,62,Non-binary,7,13,Stress,155,True,True,False,True,False,PTSD,False,2,4,5.6,5,False,False,2,Low,Senir,Adult
+627,21,Male,7,39,Unknown,97,True,False,True,True,True,Anxiety,False,3,3,7.7,4,False,True,5,Medium,Adolescent,Adolescent
+628,53,Non-binary,4,24,Stress,108,False,True,True,True,True,PTSD,False,0,4,5.6,0,True,False,8,Medium,Senir,Adult
+629,23,Male,8,41,Caffeine,123,True,False,True,False,False,Anxiety,False,1,1,7.2,1,False,True,6,Medium,Adolescent,Adolescent
+630,48,Female,0,21,PTSD,96,False,False,True,False,False,Anxiety,True,4,1,7.4,4,False,False,7,Medium,Senir,Adult
+631,36,Female,3,35,Stress,156,True,False,False,False,True,Depression,True,0,1,7.3,8,False,False,3,Low,Senir,Adult
+632,61,Female,2,12,Social Anxiety,140,True,True,True,False,False,PTSD,False,3,1,7,3,False,False,6,Medium,Senir,Adult
+633,56,Female,1,19,Phobia,114,True,False,True,True,True,Anxiety,False,1,4,6.1,8,True,False,9,High,Senir,Adult
+634,44,Female,7,35,Unknown,130,True,True,True,True,True,Anxiety,True,1,0,5.9,2,False,True,3,Low,Senir,Adult
+635,27,Male,6,34,Stress,97,False,False,False,True,False,Depression,False,1,2,6.8,0,False,False,6,Medium,Senir,Adult
+636,43,Male,8,24,Stress,122,False,True,False,True,True,Anxiety,True,3,6,4.3,5,True,True,7,Medium,Senir,Adult
+637,36,Female,1,43,Social Anxiety,85,True,True,True,False,False,PTSD,True,5,5,8.4,9,False,True,5,Medium,Senir,Adult
+638,56,Female,3,16,PTSD,122,True,True,True,False,True,PTSD,False,5,2,8.1,6,False,True,10,High,Senir,Adult
+639,20,Female,5,21,Stress,146,False,True,True,False,False,Anxiety,True,5,1,5.7,3,False,False,8,Medium,Adolescent,Adolescent
+640,62,Female,2,34,Stress,112,True,False,True,True,False,Depression,False,0,0,6.8,9,False,False,8,Medium,Senir,Adult
+641,30,Male,7,33,PTSD,144,True,False,True,False,True,PTSD,True,4,3,8.7,4,True,False,6,Medium,Senir,Adult
+642,45,Female,2,23,Social Anxiety,147,True,False,False,False,True,Anxiety,True,1,0,5.4,3,False,True,7,Medium,Senir,Adult
+643,37,Male,1,15,Unknown,133,True,True,False,False,False,Depression,False,1,3,7.7,2,False,True,3,Low,Senir,Adult
+644,45,Female,2,38,Unknown,88,True,False,False,False,False,Anxiety,False,0,2,4.4,0,True,False,7,Medium,Senir,Adult
+645,25,Male,5,11,Stress,120,True,True,True,False,True,Depression,False,5,0,6.6,5,False,False,7,Medium,Senir,Adult
+646,58,Male,1,38,PTSD,119,True,False,False,False,False,Anxiety,False,1,0,8.4,9,False,True,4,Medium,Senir,Adult
+647,56,Male,7,24,Stress,155,True,False,False,False,True,PTSD,True,1,5,6.8,4,True,False,10,High,Senir,Adult
+648,18,Male,0,42,Phobia,147,True,True,True,True,True,Anxiety,False,3,2,7.1,0,False,True,4,Medium,Adolescent,Adolescent
+649,20,Female,6,28,Unknown,88,True,False,True,False,True,Anxiety,False,2,0,8.5,4,False,True,3,Low,Adolescent,Adolescent
+650,30,Male,1,14,Caffeine,88,False,True,True,True,True,PTSD,False,0,3,7.6,5,False,True,10,High,Senir,Adult
+651,45,Male,9,36,Phobia,138,True,True,True,True,False,Anxiety,True,0,6,7.5,9,False,True,7,Medium,Senir,Adult
+652,42,Male,5,19,Stress,129,True,True,True,False,False,Anxiety,True,5,0,6.9,4,False,True,5,Medium,Senir,Adult
+653,50,Male,1,41,Social Anxiety,99,False,True,False,False,False,Anxiety,False,0,3,7.2,0,True,False,3,Low,Senir,Adult
+654,55,Male,1,24,Unknown,86,False,False,True,True,False,Anxiety,False,5,1,8,4,False,False,6,Medium,Senir,Adult
+655,23,Male,9,7,Caffeine,143,True,True,False,False,False,None,False,3,0,8.9,9,True,True,6,Medium,Adolescent,Adolescent
+656,61,Female,7,41,Phobia,156,True,True,True,True,False,PTSD,False,3,3,8,0,False,False,6,Medium,Senir,Adult
+657,62,Female,1,44,Unknown,108,False,True,False,False,False,Anxiety,True,4,6,7.5,2,True,False,2,Low,Senir,Adult
+658,49,Female,6,12,PTSD,127,False,False,True,False,False,PTSD,False,5,2,4.7,1,False,True,10,High,Senir,Adult
+659,62,Female,2,44,Social Anxiety,87,False,False,False,False,False,Depression,False,3,1,8.1,0,False,False,7,Medium,Senir,Adult
+660,64,Male,7,27,Phobia,95,False,False,True,False,True,None,False,5,0,7.7,3,True,False,7,Medium,Senir,Adult
+661,38,Female,6,44,PTSD,147,True,False,True,True,False,Anxiety,True,0,5,7.9,1,False,True,10,High,Senir,Adult
+662,33,Female,7,15,Stress,136,True,True,False,False,False,Depression,True,4,3,5.2,4,True,True,4,Medium,Senir,Adult
+663,38,Female,6,12,PTSD,135,True,True,True,True,False,Depression,True,2,6,8.5,9,False,True,6,Medium,Senir,Adult
+664,28,Male,5,33,Phobia,140,True,True,False,False,False,Depression,False,1,5,4.5,0,False,False,4,Medium,Senir,Adult
+665,54,Male,6,34,Phobia,130,True,True,False,False,False,Depression,True,1,0,5.3,9,True,True,4,Medium,Senir,Adult
+666,53,Male,4,14,Stress,139,True,False,True,False,False,Anxiety,True,4,3,7.3,0,False,False,6,Medium,Senir,Adult
+667,52,Male,6,43,PTSD,118,True,True,True,True,True,PTSD,False,5,0,7.4,9,True,False,9,High,Senir,Adult
+668,36,Female,0,32,PTSD,116,False,False,False,True,False,Depression,True,5,1,5.6,3,True,True,7,Medium,Senir,Adult
+669,37,Female,0,40,Stress,121,True,True,True,True,True,None,True,5,6,7.5,6,False,False,2,Low,Senir,Adult
+670,35,Female,8,17,PTSD,141,True,True,False,False,False,Anxiety,True,2,6,5.9,1,False,False,6,Medium,Senir,Adult
+671,64,Female,4,36,Unknown,97,True,True,False,False,False,Depression,True,1,1,4,1,False,True,5,Medium,Senir,Adult
+672,58,Female,4,40,Stress,128,True,False,True,True,True,None,False,4,0,4.8,0,True,False,6,Medium,Senir,Adult
+673,31,Female,2,41,Social Anxiety,111,False,False,True,False,True,Depression,False,5,0,8.4,4,False,True,8,Medium,Senir,Adult
+674,32,Non-binary,4,30,Phobia,91,True,False,False,False,False,PTSD,False,3,4,5.1,5,False,True,8,Medium,Senir,Adult
+675,48,Male,2,26,Social Anxiety,156,False,True,True,True,True,PTSD,False,0,0,4.6,5,True,True,3,Low,Senir,Adult
+676,18,Male,8,8,Unknown,140,True,False,True,False,True,Anxiety,False,2,6,7.4,1,False,False,9,High,Adolescent,Adolescent
+677,20,Male,8,35,Unknown,121,True,True,True,False,False,Depression,False,5,0,6.2,6,False,False,6,Medium,Adolescent,Adolescent
+678,33,Female,5,22,Caffeine,127,True,True,False,False,True,Anxiety,True,1,5,8,5,False,True,7,Medium,Senir,Adult
+679,40,Female,0,42,Caffeine,114,True,False,True,True,True,Depression,True,0,5,8.3,7,True,True,9,High,Senir,Adult
+680,28,Male,6,28,Caffeine,88,False,True,True,True,False,Anxiety,False,4,1,8.2,5,False,True,7,Medium,Senir,Adult
+681,29,Non-binary,6,27,Stress,84,True,False,False,True,True,PTSD,True,5,5,5.6,8,True,False,10,High,Senir,Adult
+682,27,Male,9,26,PTSD,135,False,True,True,True,True,Depression,True,1,0,6.5,9,False,False,9,High,Senir,Adult
+683,49,Non-binary,9,6,Unknown,79,True,True,True,True,False,Depression,False,0,2,7.3,1,False,False,1,Low,Senir,Adult
+684,33,Male,3,35,Social Anxiety,149,False,False,False,False,False,Anxiety,False,3,0,5.6,6,False,False,1,Low,Senir,Adult
+685,25,Male,7,15,Social Anxiety,136,True,True,False,False,False,None,True,2,6,4.2,4,False,False,3,Low,Senir,Adult
+686,55,Female,5,32,Social Anxiety,99,False,False,False,False,False,Anxiety,True,4,4,6.5,0,False,True,9,High,Senir,Adult
+687,29,Male,3,36,Social Anxiety,158,True,True,True,True,False,Anxiety,True,1,3,4.1,2,False,True,1,Low,Senir,Adult
+688,41,Male,3,9,Caffeine,134,True,False,False,False,True,Anxiety,False,3,6,8.8,3,False,False,1,Low,Senir,Adult
+689,45,Male,1,42,Social Anxiety,98,True,True,True,False,True,None,True,2,1,8,1,True,False,5,Medium,Senir,Adult
+690,25,Female,1,14,PTSD,132,False,True,True,False,True,None,False,2,5,5,6,False,True,8,Medium,Senir,Adult
+691,45,Female,3,44,Caffeine,103,True,True,True,False,True,Depression,False,3,2,5.4,0,False,False,2,Low,Senir,Adult
+692,53,Male,4,28,Social Anxiety,106,True,True,True,False,False,PTSD,False,1,6,8.9,2,False,False,4,Medium,Senir,Adult
+693,43,Female,7,39,Stress,83,False,False,False,False,False,Anxiety,True,2,3,5.9,8,False,True,6,Medium,Senir,Adult
+694,25,Female,5,27,Phobia,99,True,True,True,True,True,None,True,4,2,7.9,1,False,False,1,Low,Senir,Adult
+695,45,Male,3,21,Phobia,96,True,True,False,False,False,Anxiety,False,0,1,6.2,4,False,False,4,Medium,Senir,Adult
+696,45,Male,6,5,Phobia,125,True,True,False,True,True,Anxiety,False,4,5,8.3,3,False,True,4,Medium,Senir,Adult
+697,54,Male,7,35,Caffeine,148,True,True,False,True,True,Anxiety,True,5,4,7.5,2,False,False,9,High,Senir,Adult
+698,58,Male,1,35,Social Anxiety,135,False,False,True,True,False,Depression,False,2,6,4.1,4,True,True,9,High,Senir,Adult
+699,53,Female,6,38,Unknown,97,False,False,False,True,True,PTSD,True,0,6,5.5,5,False,True,6,Medium,Senir,Adult
+700,44,Male,1,13,Unknown,143,True,True,True,True,True,Anxiety,True,3,6,6.8,0,False,False,8,Medium,Senir,Adult
+701,34,Female,1,26,Unknown,81,False,False,True,True,True,None,False,0,1,8.6,1,False,True,10,High,Senir,Adult
+702,26,Female,7,17,Caffeine,120,True,True,False,True,True,Depression,True,0,2,4.5,0,False,True,4,Medium,Senir,Adult
+703,50,Male,1,29,PTSD,99,True,True,True,False,False,Anxiety,False,0,2,7,2,True,True,10,High,Senir,Adult
+704,37,Female,8,22,Stress,118,True,False,True,True,False,Depression,False,2,1,5.5,7,False,True,8,Medium,Senir,Adult
+705,30,Male,0,16,Stress,145,True,True,False,False,True,Depression,False,5,6,8.4,7,False,True,3,Low,Senir,Adult
+706,45,Non-binary,8,44,Phobia,103,True,False,True,True,True,PTSD,False,5,0,7.8,3,False,False,2,Low,Senir,Adult
+707,46,Female,0,21,Phobia,133,False,False,False,False,False,Depression,False,1,1,5.8,5,False,True,6,Medium,Senir,Adult
+708,30,Female,9,19,Unknown,130,False,True,True,False,False,Depression,True,5,5,4.8,8,False,False,5,Medium,Senir,Adult
+709,63,Female,9,19,Unknown,122,True,False,True,False,True,Anxiety,False,2,5,4.1,6,True,False,8,Medium,Senir,Adult
+710,52,Male,1,19,Phobia,134,True,False,True,False,True,Depression,False,1,4,7.1,1,True,True,1,Low,Senir,Adult
+711,23,Female,5,43,Social Anxiety,133,False,True,True,True,False,None,True,3,1,6,1,True,False,10,High,Adolescent,Adolescent
+712,35,Non-binary,5,17,PTSD,148,False,False,True,False,False,Anxiety,True,3,3,5.6,2,False,False,3,Low,Senir,Adult
+713,22,Female,0,21,PTSD,155,False,True,False,False,True,PTSD,True,3,5,8.9,7,False,True,7,Medium,Adolescent,Adolescent
+714,64,Female,6,36,PTSD,151,True,False,False,False,False,Depression,False,3,5,6.3,9,False,True,10,High,Senir,Adult
+715,42,Female,7,13,PTSD,144,False,False,False,False,True,Anxiety,False,3,5,7.7,8,False,False,4,Medium,Senir,Adult
+716,19,Male,1,44,Phobia,97,True,True,True,True,False,None,False,4,0,4.9,2,False,False,10,High,Adolescent,Adolescent
+717,27,Male,7,24,Stress,85,True,True,False,False,False,Depression,False,2,3,4.1,8,False,True,5,Medium,Senir,Adult
+718,47,Female,8,30,Phobia,141,True,False,False,True,False,Anxiety,False,1,6,6.1,9,False,True,8,Medium,Senir,Adult
+719,62,Male,5,31,PTSD,120,True,True,False,False,True,Anxiety,False,3,6,7.3,7,False,True,1,Low,Senir,Adult
+720,22,Female,4,25,Phobia,120,True,True,True,True,True,Anxiety,False,4,1,6.5,4,True,True,1,Low,Adolescent,Adolescent
+721,50,Non-binary,8,22,PTSD,137,True,True,False,False,True,PTSD,False,5,0,8.5,9,False,False,7,Medium,Senir,Adult
+722,18,Male,8,17,Caffeine,98,True,True,False,True,False,Depression,False,4,5,6.2,2,False,True,9,High,Adolescent,Adolescent
+723,35,Male,0,20,Unknown,151,False,True,True,True,True,None,False,4,6,5.6,6,False,True,4,Medium,Senir,Adult
+724,49,Female,2,13,Stress,95,True,True,False,False,True,Anxiety,False,2,3,8.6,8,False,True,8,Medium,Senir,Adult
+725,64,Male,8,16,Caffeine,105,True,True,True,False,True,Anxiety,False,3,6,6,5,False,True,10,High,Senir,Adult
+726,28,Female,1,42,Social Anxiety,125,True,False,False,False,False,Anxiety,False,4,3,5.3,2,False,True,7,Medium,Senir,Adult
+727,38,Male,3,23,Phobia,80,False,True,False,True,True,Depression,False,4,0,4.5,4,False,True,2,Low,Senir,Adult
+728,43,Female,3,11,Social Anxiety,141,True,True,False,True,True,None,False,3,6,8,6,False,True,5,Medium,Senir,Adult
+729,42,Male,1,39,Phobia,140,True,True,True,False,True,Depression,False,2,5,8.1,7,False,False,9,High,Senir,Adult
+730,39,Female,2,22,Unknown,97,True,True,True,False,False,Anxiety,False,4,0,4.2,3,True,False,9,High,Senir,Adult
+731,44,Female,2,20,Caffeine,95,False,True,False,False,False,PTSD,False,1,2,5.8,1,False,True,3,Low,Senir,Adult
+732,30,Female,0,43,Unknown,147,False,True,True,False,False,PTSD,True,0,5,7.7,9,True,False,3,Low,Senir,Adult
+733,50,Male,5,8,PTSD,117,True,True,True,False,False,Anxiety,True,5,0,8.7,1,False,True,2,Low,Senir,Adult
+734,51,Female,7,29,Unknown,149,True,False,False,False,False,PTSD,False,0,1,5.9,2,False,True,7,Medium,Senir,Adult
+735,58,Female,2,36,Unknown,117,False,False,True,False,True,Anxiety,False,0,6,8.4,7,False,True,6,Medium,Senir,Adult
+736,52,Male,4,44,PTSD,114,True,False,True,False,False,Anxiety,False,2,5,6,0,False,True,5,Medium,Senir,Adult
+737,18,Male,0,17,Phobia,118,True,False,True,False,True,Anxiety,True,4,4,4.9,6,False,False,7,Medium,Adolescent,Adolescent
+738,38,Male,9,21,PTSD,123,True,False,True,False,True,Depression,True,0,5,4,5,True,True,4,Medium,Senir,Adult
+739,23,Female,6,41,Caffeine,82,True,True,False,False,False,Depression,True,0,2,5.7,1,True,True,5,Medium,Adolescent,Adolescent
+740,45,Female,9,10,Unknown,103,True,False,False,True,True,Anxiety,True,5,0,5.9,8,False,False,9,High,Senir,Adult
+741,34,Female,0,23,PTSD,147,True,True,False,True,True,Anxiety,False,3,4,8.7,4,False,False,9,High,Senir,Adult
+742,22,Male,8,17,Unknown,108,True,False,False,True,True,PTSD,True,4,2,5,1,True,True,4,Medium,Adolescent,Adolescent
+743,48,Male,7,30,Caffeine,154,False,False,False,False,False,None,False,4,1,5.9,2,True,True,6,Medium,Senir,Adult
+744,22,Female,6,18,Social Anxiety,146,True,True,False,True,True,PTSD,False,5,5,4.1,6,False,True,2,Low,Adolescent,Adolescent
+745,55,Female,9,35,Caffeine,107,False,True,True,True,False,Anxiety,False,3,6,7.8,6,False,True,3,Low,Senir,Adult
+746,20,Non-binary,6,8,Stress,151,True,True,False,False,False,Anxiety,False,4,4,8.6,9,False,True,9,High,Adolescent,Adolescent
+747,40,Male,4,43,Stress,146,True,False,True,False,False,Anxiety,False,1,6,5.2,0,False,True,6,Medium,Senir,Adult
+748,54,Female,4,12,Stress,129,True,False,False,False,True,Anxiety,True,5,0,6.1,9,True,False,8,Medium,Senir,Adult
+749,54,Male,4,29,Unknown,102,False,False,False,False,False,Depression,False,2,0,4.6,3,False,False,5,Medium,Senir,Adult
+750,27,Male,0,17,Phobia,92,False,True,True,False,True,Depression,False,3,1,6.3,5,True,False,2,Low,Senir,Adult
+751,27,Female,7,36,Phobia,147,True,False,False,False,True,PTSD,True,5,2,4.7,7,False,True,7,Medium,Senir,Adult
+752,36,Female,0,42,Phobia,96,False,True,True,False,True,Depression,True,0,4,6.6,2,False,True,6,Medium,Senir,Adult
+753,34,Non-binary,3,42,Unknown,120,True,False,False,False,False,Anxiety,True,4,1,7.7,2,False,True,2,Low,Senir,Adult
+754,38,Male,8,32,Caffeine,135,False,True,True,True,True,Anxiety,True,1,2,6.8,7,False,False,6,Medium,Senir,Adult
+755,31,Male,8,34,Phobia,90,False,True,False,False,True,Depression,False,1,3,5.2,7,False,True,8,Medium,Senir,Adult
+756,26,Female,4,7,Social Anxiety,95,False,True,True,True,True,Anxiety,False,2,3,5.8,7,False,False,1,Low,Senir,Adult
+757,63,Female,3,32,Stress,108,True,False,True,True,True,Anxiety,True,5,2,7.2,0,False,False,4,Medium,Senir,Adult
+758,18,Male,2,7,Caffeine,153,True,False,True,False,False,Anxiety,False,1,0,6.9,7,False,False,1,Low,Adolescent,Adolescent
+759,62,Male,2,38,Stress,101,True,True,True,True,False,Anxiety,False,5,0,4.7,7,False,False,2,Low,Senir,Adult
+760,30,Male,4,20,Phobia,79,True,True,True,False,False,Anxiety,True,4,3,8.2,1,False,False,1,Low,Senir,Adult
+761,21,Female,9,26,Caffeine,157,True,False,False,False,True,PTSD,False,4,0,6.4,8,True,False,6,Medium,Adolescent,Adolescent
+762,18,Male,0,36,PTSD,110,True,True,True,False,True,PTSD,False,1,6,4.8,6,False,False,6,Medium,Adolescent,Adolescent
+763,57,Male,4,42,Social Anxiety,87,True,False,True,False,False,Anxiety,False,4,0,4.6,7,False,True,1,Low,Senir,Adult
+764,49,Male,5,12,Phobia,93,True,True,True,False,True,Anxiety,False,5,2,8.8,1,False,True,4,Medium,Senir,Adult
+765,51,Male,6,12,Phobia,106,True,True,False,True,False,PTSD,False,4,5,5.4,3,False,False,4,Medium,Senir,Adult
+766,45,Male,8,10,Social Anxiety,102,True,False,False,False,True,Anxiety,True,0,2,8.5,6,False,False,8,Medium,Senir,Adult
+767,48,Female,2,18,Social Anxiety,138,False,False,False,False,False,Anxiety,False,5,0,6.1,5,False,True,6,Medium,Senir,Adult
+768,25,Male,1,36,PTSD,113,True,True,False,False,True,Anxiety,False,3,2,5.9,6,True,True,2,Low,Senir,Adult
+769,56,Female,2,39,Phobia,105,True,True,True,False,True,Anxiety,True,4,4,7.5,0,False,False,5,Medium,Senir,Adult
+770,43,Male,8,14,Unknown,154,False,False,True,True,False,PTSD,False,4,3,4,7,False,False,4,Medium,Senir,Adult
+771,51,Female,6,7,Phobia,98,True,True,True,True,False,PTSD,False,5,5,5.7,6,False,True,10,High,Senir,Adult
+772,20,Female,8,16,Stress,143,True,False,False,True,True,Anxiety,True,2,4,5.5,3,False,False,4,Medium,Adolescent,Adolescent
+773,29,Female,1,35,Caffeine,127,True,True,False,True,False,Anxiety,False,3,4,8.3,0,False,False,8,Medium,Senir,Adult
+774,18,Female,4,33,Caffeine,79,True,True,True,False,False,Anxiety,True,3,0,6.6,7,True,False,5,Medium,Adolescent,Adolescent
+775,61,Male,3,9,Stress,88,False,False,True,False,True,Anxiety,False,3,0,5.8,9,False,True,3,Low,Senir,Adult
+776,22,Male,1,29,Caffeine,125,True,False,True,True,True,None,True,1,4,5.3,6,True,True,10,High,Adolescent,Adolescent
+777,47,Female,8,35,Social Anxiety,137,True,True,True,False,True,Depression,False,0,4,7,7,False,True,4,Medium,Senir,Adult
+778,47,Non-binary,8,25,Caffeine,140,True,False,False,False,True,Depression,True,0,1,4.8,9,False,True,1,Low,Senir,Adult
+779,34,Female,5,24,Caffeine,96,True,True,True,True,False,PTSD,True,2,1,5.2,0,False,True,6,Medium,Senir,Adult
+780,64,Female,5,43,Stress,124,False,True,False,True,True,PTSD,True,3,6,5.5,4,False,False,10,High,Senir,Adult
+781,40,Female,7,26,PTSD,110,True,False,True,False,True,PTSD,False,3,3,7,8,False,True,4,Medium,Senir,Adult
+782,32,Female,5,8,Caffeine,105,True,False,False,False,True,Anxiety,False,4,4,5.9,4,True,False,6,Medium,Senir,Adult
+783,54,Male,0,17,Unknown,96,True,False,False,False,False,Anxiety,False,5,2,6.5,9,False,False,2,Low,Senir,Adult
+784,38,Female,3,24,Caffeine,117,True,True,False,True,True,Depression,False,1,5,7.3,2,True,True,5,Medium,Senir,Adult
+785,31,Non-binary,6,17,PTSD,127,True,True,False,False,True,Anxiety,False,1,1,8.8,8,False,False,9,High,Senir,Adult
+786,19,Male,1,21,Stress,122,False,True,False,True,True,None,True,2,0,7.8,8,True,False,8,Medium,Adolescent,Adolescent
+787,28,Female,8,40,PTSD,150,False,True,False,True,False,Depression,False,0,4,6,3,False,False,3,Low,Senir,Adult
+788,56,Male,7,37,Stress,132,False,False,False,False,True,None,True,3,2,7.7,3,False,True,1,Low,Senir,Adult
+789,55,Female,7,5,Social Anxiety,112,False,True,False,True,False,Anxiety,False,5,5,8.7,7,False,False,10,High,Senir,Adult
+790,51,Male,6,19,Stress,149,True,False,False,True,True,PTSD,False,2,2,6.5,6,True,True,3,Low,Senir,Adult
+791,55,Female,3,17,Social Anxiety,114,True,True,False,True,True,Anxiety,False,1,6,6.1,4,False,False,8,Medium,Senir,Adult
+792,51,Female,1,21,Social Anxiety,96,False,True,False,True,False,None,True,1,2,4.4,5,False,True,3,Low,Senir,Adult
+793,35,Male,2,28,Stress,116,False,True,False,False,True,Anxiety,False,1,0,8.5,2,False,False,5,Medium,Senir,Adult
+794,47,Female,5,12,Unknown,137,False,True,True,False,False,Depression,True,3,1,5.2,5,True,True,2,Low,Senir,Adult
+795,32,Female,4,31,Phobia,87,True,True,True,True,False,PTSD,True,3,2,4.3,7,False,True,1,Low,Senir,Adult
+796,44,Non-binary,7,27,Stress,151,True,False,True,True,False,Depression,True,3,5,6.7,9,False,False,10,High,Senir,Adult
+797,51,Male,5,12,Caffeine,150,False,True,False,True,False,Depression,False,4,1,8.2,8,True,False,5,Medium,Senir,Adult
+798,55,Male,5,12,Unknown,129,False,False,False,False,True,None,False,0,6,6,2,False,True,5,Medium,Senir,Adult
+799,50,Male,0,30,Unknown,113,False,True,True,True,True,Depression,True,1,6,7.9,7,False,True,6,Medium,Senir,Adult
+800,41,Non-binary,3,17,Caffeine,83,True,False,False,False,False,Depression,True,1,3,8.2,2,False,False,2,Low,Senir,Adult
+801,32,Non-binary,4,43,Phobia,92,True,True,False,True,False,Anxiety,False,4,0,6.3,1,True,False,9,High,Senir,Adult
+802,47,Female,2,41,Unknown,108,True,False,True,True,False,PTSD,False,1,1,7,4,True,True,2,Low,Senir,Adult
+803,59,Female,8,32,Social Anxiety,82,False,True,False,False,True,Depression,True,1,6,6.7,3,True,False,2,Low,Senir,Adult
+804,34,Female,0,29,Phobia,117,True,False,False,False,True,Depression,True,3,6,8.7,4,False,True,5,Medium,Senir,Adult
+805,22,Female,5,20,Caffeine,142,True,False,True,True,False,Anxiety,False,3,1,7.6,5,False,True,9,High,Adolescent,Adolescent
+806,46,Male,5,6,Phobia,103,False,True,False,False,True,Depression,False,0,2,8.6,2,False,False,4,Medium,Senir,Adult
+807,21,Female,9,22,Stress,106,True,True,False,False,True,Anxiety,False,1,5,5.1,0,False,False,6,Medium,Adolescent,Adolescent
+808,27,Male,4,21,Phobia,154,False,True,True,False,True,Anxiety,False,2,2,5.6,3,True,False,2,Low,Senir,Adult
+809,34,Female,4,34,Social Anxiety,144,True,False,True,False,False,Depression,True,1,5,4.4,5,True,True,4,Medium,Senir,Adult
+810,27,Female,9,43,Stress,156,False,True,False,False,True,Anxiety,True,1,6,6.5,1,False,False,9,High,Senir,Adult
+811,34,Female,4,17,PTSD,100,True,True,True,False,False,Anxiety,True,0,6,8.4,1,True,True,2,Low,Senir,Adult
+812,37,Male,5,36,Caffeine,109,False,True,True,True,True,Depression,True,2,0,5.6,0,False,False,1,Low,Senir,Adult
+813,41,Male,7,33,Caffeine,101,False,True,True,False,False,Anxiety,False,1,1,4.6,8,False,True,4,Medium,Senir,Adult
+814,22,Male,1,34,Phobia,126,True,False,False,False,False,Anxiety,False,5,4,4.3,2,True,True,4,Medium,Adolescent,Adolescent
+815,51,Male,5,22,Unknown,98,True,True,False,True,True,Anxiety,False,5,6,6.2,1,False,False,1,Low,Senir,Adult
+816,23,Male,0,17,Stress,116,True,False,False,True,False,Depression,True,2,5,4.8,3,False,True,4,Medium,Adolescent,Adolescent
+817,19,Non-binary,3,25,PTSD,133,True,False,True,True,True,Depression,False,5,5,5.7,5,False,False,3,Low,Adolescent,Adolescent
+818,30,Female,9,34,Stress,146,False,True,False,False,True,PTSD,False,3,2,8.1,0,False,False,2,Low,Senir,Adult
+819,60,Male,2,25,Caffeine,157,True,False,True,False,False,Anxiety,True,3,2,5.9,8,True,True,10,High,Senir,Adult
+820,60,Male,8,21,Stress,79,True,True,True,False,True,Anxiety,False,2,6,7,8,False,False,4,Medium,Senir,Adult
+821,28,Male,2,44,PTSD,85,True,False,True,True,True,Anxiety,True,1,6,6.5,7,False,True,8,Medium,Senir,Adult
+822,64,Female,5,23,Unknown,135,False,True,True,False,True,Depression,True,2,3,7.6,5,False,True,7,Medium,Senir,Adult
+823,40,Female,0,19,Phobia,90,False,False,False,False,True,None,False,5,5,4.8,3,True,False,9,High,Senir,Adult
+824,33,Non-binary,5,13,Social Anxiety,83,True,True,False,True,False,Anxiety,False,2,0,8.6,1,False,False,8,Medium,Senir,Adult
+825,48,Female,3,14,Stress,128,True,True,True,False,True,Anxiety,True,5,1,7.2,7,False,True,1,Low,Senir,Adult
+826,28,Non-binary,7,35,Social Anxiety,120,True,True,False,False,False,Anxiety,True,3,1,5.4,6,False,False,2,Low,Senir,Adult
+827,33,Female,8,27,Caffeine,90,True,True,False,False,False,Depression,False,2,1,4.6,3,False,True,2,Low,Senir,Adult
+828,25,Male,3,34,Phobia,96,True,False,False,False,True,Depression,False,4,5,4.7,2,False,False,8,Medium,Senir,Adult
+829,21,Non-binary,9,37,Phobia,144,True,True,True,False,True,Depression,False,5,2,7.9,5,False,False,4,Medium,Adolescent,Adolescent
+830,57,Male,9,13,Stress,152,True,False,False,True,False,PTSD,True,4,0,6.9,0,False,True,9,High,Senir,Adult
+831,21,Female,5,5,Unknown,157,True,True,True,False,True,Depression,True,3,1,5.9,1,True,False,2,Low,Adolescent,Adolescent
+832,42,Male,0,39,Phobia,95,True,False,False,True,True,Anxiety,True,1,5,5.7,6,False,True,4,Medium,Senir,Adult
+833,20,Female,3,15,Stress,146,True,True,True,True,True,Anxiety,True,5,4,8.3,2,False,True,1,Low,Adolescent,Adolescent
+834,49,Female,6,38,Stress,149,True,True,False,True,False,Depression,True,1,6,8.4,0,False,False,3,Low,Senir,Adult
+835,20,Female,0,20,Social Anxiety,140,False,True,True,False,False,Depression,True,3,3,6.9,1,False,False,6,Medium,Adolescent,Adolescent
+836,44,Female,7,13,Phobia,119,False,False,True,False,True,Depression,False,1,3,6.6,9,False,True,9,High,Senir,Adult
+837,46,Male,9,36,Stress,112,True,True,False,True,True,Depression,True,5,1,8.1,9,False,False,1,Low,Senir,Adult
+838,49,Male,5,19,Social Anxiety,148,True,False,False,True,False,Depression,False,0,2,7.7,8,True,True,5,Medium,Senir,Adult
+839,36,Male,4,16,PTSD,123,False,False,False,False,False,PTSD,True,5,3,6,6,True,True,2,Low,Senir,Adult
+840,38,Male,9,37,Social Anxiety,136,False,True,False,False,False,Depression,False,5,3,4.4,6,False,False,7,Medium,Senir,Adult
+841,22,Female,8,18,Social Anxiety,129,True,False,True,False,False,PTSD,True,4,3,7.8,9,False,False,4,Medium,Adolescent,Adolescent
+842,35,Male,1,12,Stress,112,True,True,False,False,True,Anxiety,False,0,3,4.8,7,False,False,5,Medium,Senir,Adult
+843,45,Non-binary,4,12,Caffeine,122,True,True,True,False,False,Depression,True,0,1,4.1,7,False,True,8,Medium,Senir,Adult
+844,59,Female,5,31,Caffeine,93,True,False,True,True,True,None,False,0,5,8.2,8,False,False,2,Low,Senir,Adult
+845,39,Female,6,16,Unknown,156,True,False,False,False,True,Anxiety,False,5,0,6.9,1,False,False,3,Low,Senir,Adult
+846,38,Male,4,5,Caffeine,148,True,False,False,True,False,PTSD,False,3,0,8.5,7,True,True,5,Medium,Senir,Adult
+847,23,Female,8,44,Social Anxiety,128,True,True,False,False,True,PTSD,True,0,2,6.4,7,False,True,10,High,Adolescent,Adolescent
+848,18,Non-binary,0,15,Unknown,110,True,True,False,True,False,Anxiety,False,2,5,8.6,4,False,False,4,Medium,Adolescent,Adolescent
+849,22,Female,6,43,Stress,145,True,True,False,False,True,Depression,False,1,6,5.8,4,False,True,5,Medium,Adolescent,Adolescent
+850,58,Female,9,35,Phobia,81,True,False,True,False,False,Anxiety,True,3,4,7.6,3,False,True,3,Low,Senir,Adult
+851,29,Female,6,21,Social Anxiety,152,True,True,True,False,False,None,False,2,0,5.5,4,False,False,9,High,Senir,Adult
+852,43,Male,3,37,Social Anxiety,129,True,False,False,True,True,PTSD,False,5,4,4,1,False,False,8,Medium,Senir,Adult
+853,63,Female,8,36,Unknown,145,True,True,True,False,False,Anxiety,False,5,0,5.9,1,False,False,6,Medium,Senir,Adult
+854,51,Male,4,33,Stress,154,False,True,True,True,True,Anxiety,False,2,0,7.7,4,False,False,1,Low,Senir,Adult
+855,31,Male,3,25,PTSD,126,True,True,True,True,False,Depression,False,4,2,4.8,2,False,False,4,Medium,Senir,Adult
+856,43,Male,6,25,Social Anxiety,95,False,True,False,True,True,Anxiety,False,4,3,6.5,0,False,False,7,Medium,Senir,Adult
+857,62,Male,3,44,PTSD,85,False,True,True,False,False,Anxiety,False,2,2,5.1,8,False,True,10,High,Senir,Adult
+858,44,Male,2,27,PTSD,91,True,False,False,False,True,Depression,False,4,0,4.4,1,True,True,5,Medium,Senir,Adult
+859,26,Male,8,10,Caffeine,144,True,False,False,False,True,Anxiety,False,1,5,7.1,9,False,True,4,Medium,Senir,Adult
+860,43,Non-binary,7,26,Stress,82,True,True,True,False,True,Anxiety,False,1,3,8.8,1,True,True,9,High,Senir,Adult
+861,64,Female,0,42,PTSD,88,False,True,False,False,True,PTSD,False,5,5,5.6,3,False,True,8,Medium,Senir,Adult
+862,39,Non-binary,6,41,Stress,95,False,True,False,False,False,None,True,4,5,6.9,1,False,True,3,Low,Senir,Adult
+863,64,Male,8,12,Caffeine,130,False,False,False,True,False,PTSD,True,0,5,8.8,6,True,True,6,Medium,Senir,Adult
+864,47,Male,7,39,Stress,84,True,True,False,True,False,PTSD,True,2,3,7.3,9,False,True,4,Medium,Senir,Adult
+865,60,Female,7,15,Social Anxiety,147,True,False,True,False,True,Anxiety,True,1,5,7.4,0,False,False,7,Medium,Senir,Adult
+866,34,Male,5,28,PTSD,152,True,True,False,False,True,Anxiety,True,4,3,4.9,1,False,True,1,Low,Senir,Adult
+867,43,Male,3,25,Stress,87,True,True,True,False,True,Anxiety,False,4,4,6.5,4,False,False,1,Low,Senir,Adult
+868,53,Female,7,6,Phobia,155,True,False,False,False,False,PTSD,True,1,6,5.8,1,False,True,6,Medium,Senir,Adult
+869,18,Male,2,44,Stress,99,True,True,False,True,False,None,False,1,0,6.4,8,False,False,10,High,Adolescent,Adolescent
+870,25,Female,8,23,PTSD,102,False,True,False,True,True,PTSD,False,0,1,8,3,False,False,7,Medium,Senir,Adult
+871,52,Female,1,43,Caffeine,82,True,True,True,False,True,PTSD,True,4,5,6.3,8,False,False,9,High,Senir,Adult
+872,32,Male,1,32,Caffeine,102,True,True,True,True,True,Depression,True,4,2,4.3,0,True,False,7,Medium,Senir,Adult
+873,64,Male,6,21,PTSD,137,True,True,True,True,False,Anxiety,False,3,4,8.5,0,False,False,9,High,Senir,Adult
+874,39,Female,9,10,Social Anxiety,81,False,False,True,False,False,Depression,False,5,2,6.7,0,False,True,10,High,Senir,Adult
+875,31,Female,3,23,Social Anxiety,146,False,False,True,True,False,Anxiety,False,0,1,8.6,3,False,False,9,High,Senir,Adult
+876,43,Male,9,42,Caffeine,118,True,True,False,False,True,Anxiety,False,1,3,6.9,8,True,False,8,Medium,Senir,Adult
+877,45,Non-binary,7,32,Caffeine,126,True,False,True,False,False,Depression,False,1,1,4.3,7,False,False,7,Medium,Senir,Adult
+878,40,Male,8,6,PTSD,132,True,True,False,False,False,Depression,False,2,2,6.8,6,False,True,3,Low,Senir,Adult
+879,31,Female,6,42,Social Anxiety,113,False,True,True,True,True,Depression,False,5,1,6.9,0,False,False,3,Low,Senir,Adult
+880,41,Non-binary,4,41,Caffeine,134,True,True,False,True,False,Depression,False,1,0,5.1,2,False,False,5,Medium,Senir,Adult
+881,19,Male,7,8,Social Anxiety,118,True,True,False,False,True,Anxiety,False,4,1,6.4,8,False,False,7,Medium,Adolescent,Adolescent
+882,62,Male,3,26,Caffeine,155,True,True,False,True,True,Depression,True,1,5,6.3,8,False,False,10,High,Senir,Adult
+883,43,Male,1,30,Stress,146,True,False,False,True,False,Depression,False,4,0,7.1,4,False,True,7,Medium,Senir,Adult
+884,31,Male,5,40,Phobia,124,False,True,True,True,True,Anxiety,False,4,5,5.3,5,False,True,1,Low,Senir,Adult
+885,24,Male,8,17,Unknown,156,True,True,False,True,False,PTSD,False,0,6,6.9,5,False,True,8,Medium,Adolescent,Adolescent
+886,20,Female,0,36,Stress,91,True,True,True,True,False,Depression,True,1,6,5.2,9,True,True,1,Low,Adolescent,Adolescent
+887,64,Male,9,21,Unknown,105,True,False,True,False,True,Depression,True,0,1,6.2,3,False,True,4,Medium,Senir,Adult
+888,40,Female,6,40,Caffeine,84,True,False,False,True,False,PTSD,True,5,0,4.6,0,False,True,2,Low,Senir,Adult
+889,63,Non-binary,9,23,Phobia,95,False,True,True,True,False,PTSD,True,4,0,4.2,4,False,True,5,Medium,Senir,Adult
+890,60,Female,8,39,Phobia,114,True,True,False,False,True,PTSD,True,5,6,5.6,0,False,True,6,Medium,Senir,Adult
+891,64,Female,9,44,Caffeine,80,False,True,True,False,True,Anxiety,False,1,1,5.4,0,False,True,4,Medium,Senir,Adult
+892,62,Male,8,32,Caffeine,155,False,True,True,True,True,Anxiety,True,5,4,6,4,True,False,4,Medium,Senir,Adult
+893,35,Female,9,5,Social Anxiety,130,True,True,True,True,True,Anxiety,True,5,3,8.8,4,False,False,7,Medium,Senir,Adult
+894,55,Female,2,22,Caffeine,144,True,True,True,False,True,Anxiety,True,1,3,6.6,6,False,False,4,Medium,Senir,Adult
+895,52,Male,4,44,PTSD,130,True,True,True,False,True,None,False,0,3,6.8,1,True,True,2,Low,Senir,Adult
+896,32,Male,7,37,Caffeine,121,False,True,True,False,True,Depression,True,0,0,8.7,5,True,False,4,Medium,Senir,Adult
+897,42,Female,7,16,PTSD,100,True,True,True,False,False,Anxiety,True,4,6,8.6,1,True,False,7,Medium,Senir,Adult
+898,54,Male,3,12,Caffeine,133,True,False,False,True,True,Anxiety,False,4,3,8.4,9,False,False,1,Low,Senir,Adult
+899,45,Male,0,28,Social Anxiety,145,True,False,True,False,False,Anxiety,False,1,6,4.5,4,True,False,4,Medium,Senir,Adult
+900,27,Male,0,20,PTSD,138,False,True,False,True,False,Depression,True,1,0,7.2,3,False,False,6,Medium,Senir,Adult
+901,56,Male,3,8,Stress,136,True,True,True,False,False,PTSD,True,3,6,8,9,False,False,8,Medium,Senir,Adult
+902,34,Female,5,42,PTSD,90,True,True,False,False,True,PTSD,True,3,4,8.2,4,False,True,8,Medium,Senir,Adult
+903,56,Female,7,31,Social Anxiety,147,True,True,True,False,False,None,False,2,1,6.9,1,False,True,9,High,Senir,Adult
+904,39,Female,5,13,Unknown,117,True,False,True,True,False,Anxiety,True,4,6,4.1,7,False,False,5,Medium,Senir,Adult
+905,43,Male,8,20,PTSD,91,False,True,False,True,False,Anxiety,False,5,6,8.9,7,False,True,2,Low,Senir,Adult
+906,61,Male,8,16,Caffeine,119,True,False,True,False,True,Anxiety,True,2,1,6.4,5,False,True,3,Low,Senir,Adult
+907,42,Female,1,35,Caffeine,135,False,False,False,False,True,Anxiety,False,2,0,6,2,False,False,2,Low,Senir,Adult
+908,34,Male,9,28,Unknown,131,True,True,True,False,False,None,True,0,0,6,3,False,True,9,High,Senir,Adult
+909,30,Male,0,18,Social Anxiety,90,True,True,False,True,True,Depression,True,5,6,6.1,0,False,False,6,Medium,Senir,Adult
+910,37,Female,1,29,Phobia,91,True,True,True,True,True,PTSD,False,0,4,5.2,8,True,False,1,Low,Senir,Adult
+911,42,Male,4,38,Caffeine,152,True,True,True,False,True,Depression,True,3,3,5.6,9,False,True,3,Low,Senir,Adult
+912,21,Female,3,7,Stress,135,True,True,False,True,False,Anxiety,True,2,4,8.9,4,False,True,7,Medium,Adolescent,Adolescent
+913,27,Male,3,28,Social Anxiety,118,True,True,True,False,False,Anxiety,False,3,1,5.8,7,False,True,7,Medium,Senir,Adult
+914,20,Male,8,13,PTSD,158,True,False,False,False,True,Depression,False,5,1,6.6,2,False,True,5,Medium,Adolescent,Adolescent
+915,58,Male,7,30,PTSD,123,True,True,True,False,False,PTSD,True,5,5,8.2,3,False,True,3,Low,Senir,Adult
+916,62,Non-binary,5,24,Stress,113,True,True,False,False,False,Anxiety,False,4,3,6.6,3,True,True,7,Medium,Senir,Adult
+917,35,Female,0,44,Caffeine,81,False,False,True,False,True,PTSD,False,1,6,5.6,7,False,True,5,Medium,Senir,Adult
+918,64,Non-binary,1,14,Social Anxiety,83,True,False,False,True,False,PTSD,False,0,1,6.6,8,False,True,6,Medium,Senir,Adult
+919,53,Female,5,23,Stress,89,True,True,False,False,False,Depression,False,4,5,4.6,2,False,False,3,Low,Senir,Adult
+920,64,Male,1,7,Caffeine,149,True,False,True,True,False,PTSD,False,4,0,4.7,6,False,False,6,Medium,Senir,Adult
+921,39,Female,9,28,Social Anxiety,134,False,True,True,False,True,Depression,True,0,1,7.5,8,False,False,7,Medium,Senir,Adult
+922,51,Female,4,9,PTSD,88,False,True,True,True,False,Depression,False,0,2,8.6,1,False,False,8,Medium,Senir,Adult
+923,64,Female,4,7,Social Anxiety,112,True,True,False,False,True,PTSD,True,5,3,7.6,3,False,True,2,Low,Senir,Adult
+924,25,Male,5,31,Unknown,145,False,True,True,True,True,None,True,5,5,4.4,2,False,False,2,Low,Senir,Adult
+925,57,Female,5,20,Phobia,150,True,False,True,True,True,Anxiety,False,2,3,6,7,False,True,6,Medium,Senir,Adult
+926,61,Male,5,19,Social Anxiety,109,True,False,True,False,False,Depression,True,3,3,4,3,True,True,8,Medium,Senir,Adult
+927,36,Male,1,39,Phobia,153,False,False,True,True,False,Anxiety,False,5,2,6.6,8,False,False,5,Medium,Senir,Adult
+928,59,Female,9,16,Social Anxiety,149,False,True,False,False,True,Anxiety,False,4,4,5,0,False,True,1,Low,Senir,Adult
+929,58,Female,2,30,Phobia,144,True,True,False,False,True,Depression,False,2,0,8.3,0,True,True,1,Low,Senir,Adult
+930,54,Male,5,38,Unknown,148,False,True,False,True,False,None,True,2,3,4.5,3,True,False,10,High,Senir,Adult
+931,23,Male,7,27,PTSD,119,True,True,False,False,True,Anxiety,True,4,1,4,2,False,False,9,High,Adolescent,Adolescent
+932,43,Female,0,35,Caffeine,141,False,False,False,True,False,Anxiety,False,5,0,6.3,2,False,True,4,Medium,Senir,Adult
+933,51,Female,0,24,Phobia,110,True,False,True,True,True,Anxiety,False,4,1,4.8,9,False,True,10,High,Senir,Adult
+934,62,Female,1,16,Unknown,98,True,True,True,False,True,Depression,True,1,0,7.7,1,False,False,1,Low,Senir,Adult
+935,23,Non-binary,5,27,Phobia,135,True,True,False,False,False,Anxiety,True,5,6,8.6,9,False,False,8,Medium,Adolescent,Adolescent
+936,54,Female,8,8,PTSD,128,True,True,False,True,True,Anxiety,False,3,0,4.2,9,True,True,2,Low,Senir,Adult
+937,50,Male,3,27,Phobia,158,True,True,False,False,True,PTSD,True,4,5,6,1,True,False,2,Low,Senir,Adult
+938,39,Female,2,5,Unknown,103,True,True,True,False,True,Anxiety,False,5,1,9,7,True,False,1,Low,Senir,Adult
+939,38,Male,7,29,Unknown,90,True,True,True,False,False,Depression,False,0,1,7.7,0,True,True,1,Low,Senir,Adult
+940,23,Male,9,6,Stress,149,True,True,True,True,False,PTSD,False,1,6,8.8,7,True,False,9,High,Adolescent,Adolescent
+941,23,Female,8,34,PTSD,117,True,True,False,False,True,Anxiety,True,3,0,4.8,9,False,False,1,Low,Adolescent,Adolescent
+942,21,Male,4,7,Stress,95,True,True,False,False,True,Depression,True,5,3,5.1,2,False,True,6,Medium,Adolescent,Adolescent
+943,47,Non-binary,8,25,PTSD,123,True,True,False,False,False,Depression,True,0,1,4.8,1,False,False,7,Medium,Senir,Adult
+944,28,Female,1,29,Phobia,89,False,False,True,False,True,Depression,False,5,6,5.5,8,False,True,4,Medium,Senir,Adult
+945,47,Female,2,24,Unknown,148,False,True,False,False,False,Depression,False,0,2,7.6,4,False,False,5,Medium,Senir,Adult
+946,48,Female,6,26,Stress,101,False,False,True,True,True,Anxiety,False,3,2,4.8,4,False,False,4,Medium,Senir,Adult
+947,41,Female,6,25,Phobia,148,True,True,True,False,True,PTSD,False,1,0,6.6,5,False,True,4,Medium,Senir,Adult
+948,26,Female,5,37,Unknown,116,False,True,False,True,False,PTSD,True,0,4,5.3,3,False,False,10,High,Senir,Adult
+949,20,Female,5,42,PTSD,80,True,True,True,True,True,Anxiety,False,2,0,8.1,6,True,False,1,Low,Adolescent,Adolescent
+950,48,Male,1,19,Unknown,157,True,True,True,False,False,Anxiety,False,3,6,4,6,False,True,6,Medium,Senir,Adult
+951,57,Female,9,19,Phobia,150,True,False,False,True,True,Anxiety,False,3,0,5.1,8,False,True,10,High,Senir,Adult
+952,54,Male,5,29,Stress,115,False,True,False,False,True,Anxiety,True,4,3,7,5,False,True,10,High,Senir,Adult
+953,53,Female,3,25,Stress,127,True,False,True,False,False,Depression,False,1,3,4.5,0,False,False,7,Medium,Senir,Adult
+954,41,Female,2,28,Unknown,130,True,False,False,True,True,Anxiety,False,2,5,6.3,8,False,False,7,Medium,Senir,Adult
+955,48,Female,1,9,Phobia,111,True,True,True,False,False,Anxiety,False,2,6,6.2,9,False,False,8,Medium,Senir,Adult
+956,23,Male,0,10,Social Anxiety,100,False,True,False,False,True,PTSD,True,4,4,8.3,8,True,True,7,Medium,Adolescent,Adolescent
+957,19,Male,4,27,PTSD,83,True,False,False,False,False,Anxiety,False,0,6,7.1,4,False,False,6,Medium,Adolescent,Adolescent
+958,37,Female,1,8,PTSD,96,True,True,False,False,False,PTSD,True,0,6,7.2,6,True,True,8,Medium,Senir,Adult
+959,45,Male,1,31,Phobia,116,True,False,False,True,True,PTSD,False,2,4,8.8,0,False,True,3,Low,Senir,Adult
+960,28,Male,6,22,Social Anxiety,115,True,True,True,False,False,Anxiety,False,1,6,8.9,3,True,True,9,High,Senir,Adult
+961,21,Male,7,25,Stress,142,True,True,True,False,False,PTSD,False,0,4,7.3,9,False,True,3,Low,Adolescent,Adolescent
+962,32,Non-binary,9,32,Caffeine,88,True,True,True,True,True,PTSD,False,3,4,6.6,3,True,False,4,Medium,Senir,Adult
+963,23,Female,7,39,Caffeine,157,False,True,True,False,False,Anxiety,False,5,4,7,4,False,False,10,High,Adolescent,Adolescent
+964,47,Male,3,26,Phobia,120,True,False,False,False,False,Anxiety,True,4,6,5.9,5,True,False,6,Medium,Senir,Adult
+965,55,Male,0,44,Social Anxiety,126,True,True,True,True,True,Depression,True,1,6,8.9,3,True,False,8,Medium,Senir,Adult
+966,19,Male,6,27,Social Anxiety,122,True,False,True,True,True,None,False,0,0,7.5,5,False,True,3,Low,Adolescent,Adolescent
+967,32,Female,0,7,PTSD,94,True,True,True,False,True,Depression,False,5,6,5.5,9,True,False,10,High,Senir,Adult
+968,28,Female,3,44,Stress,132,True,True,False,True,True,Anxiety,True,2,0,4.3,6,True,False,6,Medium,Senir,Adult
+969,25,Male,7,14,Unknown,113,True,True,True,False,False,Depression,True,4,5,4.2,2,True,False,5,Medium,Senir,Adult
+970,43,Male,1,29,Social Anxiety,106,True,True,False,True,True,Depression,False,0,2,5,8,False,True,5,Medium,Senir,Adult
+971,62,Male,5,12,Unknown,80,False,True,True,False,False,Depression,False,2,2,5.2,7,False,False,5,Medium,Senir,Adult
+972,61,Female,5,15,Caffeine,91,True,True,True,True,True,PTSD,False,0,5,6.1,0,True,False,9,High,Senir,Adult
+973,22,Female,8,9,Unknown,119,True,False,True,True,True,Depression,True,4,5,5.1,1,True,True,7,Medium,Adolescent,Adolescent
+974,23,Male,4,41,Stress,158,False,True,False,False,False,PTSD,False,3,1,7.2,1,False,False,9,High,Adolescent,Adolescent
+975,43,Male,9,42,Stress,137,True,True,False,False,False,PTSD,False,3,0,5.1,9,False,False,9,High,Senir,Adult
+976,21,Male,3,33,Unknown,147,False,False,False,False,False,Depression,False,5,4,4.9,8,False,True,6,Medium,Adolescent,Adolescent
+977,36,Non-binary,4,9,Phobia,131,True,False,True,False,True,Anxiety,False,2,1,6.4,8,False,True,6,Medium,Senir,Adult
+978,37,Male,9,13,Social Anxiety,123,True,True,True,True,True,PTSD,True,3,3,8.4,8,False,False,4,Medium,Senir,Adult
+979,50,Female,4,6,Phobia,98,False,True,False,True,True,None,False,4,0,6.3,0,False,True,8,Medium,Senir,Adult
+980,37,Female,7,5,Unknown,102,True,False,True,False,False,Anxiety,True,2,6,6.1,6,False,False,2,Low,Senir,Adult
+981,29,Male,9,44,Social Anxiety,139,True,True,False,False,True,Depression,True,0,5,6.9,2,False,False,5,Medium,Senir,Adult
+982,64,Male,7,34,PTSD,136,False,True,False,False,False,Anxiety,False,1,2,5.3,8,False,True,1,Low,Senir,Adult
+983,18,Male,1,15,Phobia,105,True,True,True,True,False,PTSD,False,0,0,5.8,7,False,False,10,High,Adolescent,Adolescent
+984,43,Female,6,32,Phobia,104,True,False,False,False,True,PTSD,False,4,5,5.1,2,False,False,2,Low,Senir,Adult
+985,31,Female,7,16,Unknown,85,True,True,True,True,False,Anxiety,False,5,0,6.9,0,False,False,1,Low,Senir,Adult
+986,55,Female,5,43,Caffeine,120,False,False,True,False,False,PTSD,True,2,6,7.5,8,False,False,6,Medium,Senir,Adult
+987,54,Female,4,30,Unknown,125,False,True,True,False,False,Anxiety,False,0,0,7.4,9,False,False,2,Low,Senir,Adult
+988,28,Male,8,17,Phobia,131,True,False,False,True,True,PTSD,True,2,6,5.3,0,True,True,4,Medium,Senir,Adult
+989,53,Non-binary,2,12,Social Anxiety,137,True,True,True,False,True,Depression,False,3,0,7.9,2,False,True,5,Medium,Senir,Adult
+990,30,Female,9,32,Caffeine,116,False,True,False,True,True,Anxiety,True,1,3,5.3,5,False,True,7,Medium,Senir,Adult
+991,60,Male,3,34,Unknown,147,True,False,False,False,True,Anxiety,False,4,2,4.8,5,False,True,10,High,Senir,Adult
+992,20,Non-binary,8,13,Unknown,131,True,True,False,True,False,Anxiety,True,0,0,5.7,9,False,False,1,Low,Adolescent,Adolescent
+993,50,Female,5,43,Phobia,93,False,True,False,False,False,Depression,False,1,5,7,3,True,True,5,Medium,Senir,Adult
+994,23,Female,7,35,Phobia,104,False,True,True,True,True,Depression,False,4,3,4.7,1,True,False,4,Medium,Adolescent,Adolescent
+995,27,Female,6,25,PTSD,126,False,True,True,False,False,Anxiety,False,4,1,7.2,9,False,True,7,Medium,Senir,Adult
+996,22,Female,1,38,Unknown,97,True,True,True,False,False,Anxiety,False,5,0,8.3,5,False,True,10,High,Adolescent,Adolescent
+997,40,Female,2,35,Phobia,87,True,False,False,False,True,Anxiety,False,3,6,5.5,9,False,False,7,Medium,Senir,Adult
+998,27,Male,0,29,Stress,142,True,True,False,True,True,PTSD,False,5,3,6.3,4,True,True,8,Medium,Senir,Adult
+999,61,Male,8,16,Caffeine,132,True,True,False,False,False,PTSD,False,5,4,5.1,5,False,False,4,Medium,Senir,Adult
+1000,19,Non-binary,6,5,Stress,129,True,True,False,True,False,Anxiety,False,2,1,5.8,6,False,True,4,Medium,Adolescent,Adolescent
+1001,30,Male,0,26,Caffeine,117,False,False,False,False,False,Depression,True,2,2,4.1,8,False,False,10,High,Senir,Adult
+1002,57,Male,2,44,Unknown,82,True,False,True,True,True,Anxiety,True,1,0,8.8,6,False,False,5,Medium,Senir,Adult
+1003,19,Male,3,41,PTSD,81,False,True,False,False,True,None,True,3,0,6.1,3,False,False,5,Medium,Adolescent,Adolescent
+1004,37,Male,3,5,Phobia,142,True,True,False,True,True,None,True,4,3,7.9,9,False,True,3,Low,Senir,Adult
+1005,18,Female,4,5,Phobia,107,True,False,True,True,False,Depression,False,3,2,4.7,4,False,True,5,Medium,Adolescent,Adolescent
+1006,54,Non-binary,2,25,Phobia,89,True,True,False,True,False,None,True,3,4,8.1,5,True,False,5,Medium,Senir,Adult
+1007,26,Male,2,19,Unknown,136,True,False,True,False,True,PTSD,True,1,1,8.3,8,False,False,8,Medium,Senir,Adult
+1008,34,Male,0,21,Caffeine,153,True,False,False,True,False,PTSD,True,2,5,7.6,4,False,True,7,Medium,Senir,Adult
+1009,26,Male,6,26,Phobia,105,False,False,False,False,False,Depression,False,3,2,8.5,4,False,True,8,Medium,Senir,Adult
+1010,28,Female,9,42,Stress,99,False,True,False,False,False,Anxiety,False,3,0,4.8,6,False,True,5,Medium,Senir,Adult
+1011,32,Female,0,39,Phobia,117,True,False,True,False,False,Anxiety,True,3,3,6.4,1,False,True,2,Low,Senir,Adult
+1012,41,Male,1,20,Unknown,124,True,False,False,False,True,Anxiety,False,0,4,7.1,2,False,False,8,Medium,Senir,Adult
+1013,55,Female,3,12,PTSD,144,False,True,False,True,False,Depression,True,3,3,7,1,False,True,9,High,Senir,Adult
+1014,52,Female,3,21,Stress,114,True,True,True,False,True,Anxiety,False,3,1,8.3,9,False,True,2,Low,Senir,Adult
+1015,47,Female,4,21,Phobia,153,True,True,False,True,True,Anxiety,False,4,6,5.1,9,False,False,1,Low,Senir,Adult
+1016,48,Non-binary,1,30,Phobia,143,True,True,False,False,False,Depression,True,5,6,4.9,1,True,True,6,Medium,Senir,Adult
+1017,22,Male,3,17,Social Anxiety,141,False,True,False,True,False,Anxiety,False,0,2,5.3,2,False,False,3,Low,Adolescent,Adolescent
+1018,61,Female,0,21,Caffeine,113,True,True,True,False,False,Depression,False,3,3,8.5,5,False,False,1,Low,Senir,Adult
+1019,31,Female,1,42,Stress,109,True,True,True,True,False,None,False,5,5,8.7,4,True,True,6,Medium,Senir,Adult
+1020,28,Female,0,21,Social Anxiety,106,False,True,False,False,False,PTSD,False,3,5,6.8,4,True,False,8,Medium,Senir,Adult
+1021,26,Female,9,18,PTSD,79,True,True,True,True,False,Depression,True,1,6,6.5,1,False,True,9,High,Senir,Adult
+1022,51,Female,9,10,Caffeine,103,True,False,True,False,True,Depression,True,1,6,7,1,False,True,6,Medium,Senir,Adult
+1023,29,Female,3,39,Stress,121,True,False,False,True,False,Depression,True,5,3,7.1,0,False,True,6,Medium,Senir,Adult
+1024,52,Male,3,18,Phobia,145,False,True,False,False,True,Anxiety,True,0,0,4.9,2,True,True,1,Low,Senir,Adult
+1025,52,Female,6,12,Stress,141,True,True,False,False,True,PTSD,True,4,3,7.4,6,True,True,5,Medium,Senir,Adult
+1026,18,Non-binary,9,19,Phobia,129,False,True,True,False,True,Anxiety,False,0,4,6.3,4,False,True,3,Low,Adolescent,Adolescent
+1027,57,Non-binary,8,31,Caffeine,80,True,False,True,False,False,Anxiety,True,0,2,6.6,6,True,False,7,Medium,Senir,Adult
+1028,39,Male,8,17,Phobia,142,True,False,True,False,False,PTSD,False,1,1,4.2,8,True,False,9,High,Senir,Adult
+1029,46,Male,4,35,PTSD,152,False,False,True,False,False,Anxiety,False,1,5,7.8,5,True,False,6,Medium,Senir,Adult
+1030,25,Male,9,39,Unknown,147,True,True,False,False,False,Anxiety,False,4,3,8.2,1,True,False,5,Medium,Senir,Adult
+1031,28,Female,0,10,Phobia,87,True,False,False,False,True,Anxiety,False,3,4,7.1,0,True,True,7,Medium,Senir,Adult
+1032,58,Female,0,9,PTSD,80,True,True,True,False,False,Anxiety,False,4,6,7.7,0,False,True,9,High,Senir,Adult
+1033,54,Male,5,26,Unknown,112,True,False,True,True,False,Anxiety,False,3,5,6.6,9,True,True,5,Medium,Senir,Adult
+1034,31,Female,1,27,Caffeine,138,True,True,True,False,False,Anxiety,False,5,5,7.1,8,False,True,5,Medium,Senir,Adult
+1035,47,Female,7,29,Caffeine,139,True,False,True,False,False,Depression,False,5,1,6,5,False,False,10,High,Senir,Adult
+1036,52,Female,8,38,Stress,109,True,True,True,True,False,PTSD,False,2,5,8,5,False,False,4,Medium,Senir,Adult
+1037,38,Female,3,30,PTSD,88,False,False,False,False,False,Anxiety,True,1,4,6.3,3,False,True,5,Medium,Senir,Adult
+1038,54,Female,4,9,PTSD,154,True,False,False,True,False,PTSD,False,2,5,7.4,1,False,True,7,Medium,Senir,Adult
+1039,22,Female,7,30,Social Anxiety,114,False,True,False,True,True,Anxiety,False,2,5,7.1,9,False,True,3,Low,Adolescent,Adolescent
+1040,36,Male,2,24,Social Anxiety,127,True,True,True,False,False,Anxiety,True,1,3,7.5,2,False,True,4,Medium,Senir,Adult
+1041,31,Female,4,10,Unknown,148,True,False,False,False,True,Anxiety,True,2,3,7.9,2,False,True,9,High,Senir,Adult
+1042,43,Female,2,10,Unknown,127,True,True,False,False,True,Depression,False,0,6,6.6,7,False,False,2,Low,Senir,Adult
+1043,21,Female,9,22,Social Anxiety,81,True,True,False,False,False,Depression,False,3,2,8.1,5,False,True,8,Medium,Adolescent,Adolescent
+1044,42,Female,2,8,Unknown,152,True,True,True,False,True,Depression,True,4,0,6.5,6,True,False,9,High,Senir,Adult
+1045,62,Female,2,21,Phobia,83,False,True,False,True,False,PTSD,False,1,4,8.8,8,False,True,5,Medium,Senir,Adult
+1046,59,Male,6,18,Social Anxiety,139,False,True,False,True,True,Depression,False,0,0,7.8,0,False,True,7,Medium,Senir,Adult
+1047,42,Female,6,18,PTSD,104,False,True,False,False,True,Depression,False,5,0,4.9,1,False,False,6,Medium,Senir,Adult
+1048,35,Male,6,17,Phobia,150,True,True,True,True,True,None,False,4,5,8.1,8,True,False,1,Low,Senir,Adult
+1049,57,Male,9,11,Unknown,83,False,True,True,False,True,Anxiety,False,4,6,6.8,4,False,True,8,Medium,Senir,Adult
+1050,25,Female,7,19,Caffeine,93,True,False,True,False,False,Anxiety,False,4,1,8.9,3,False,False,9,High,Senir,Adult
+1051,56,Non-binary,4,23,Stress,94,True,False,True,True,True,PTSD,True,2,1,7.6,0,True,True,10,High,Senir,Adult
+1052,57,Male,4,39,Social Anxiety,79,False,False,False,False,True,Depression,False,2,5,4.4,8,False,True,1,Low,Senir,Adult
+1053,31,Male,3,21,Caffeine,94,True,True,True,False,True,Anxiety,False,2,6,6,8,False,False,8,Medium,Senir,Adult
+1054,49,Female,6,39,Unknown,115,True,False,True,False,True,Anxiety,False,2,4,6.6,3,False,False,3,Low,Senir,Adult
+1055,55,Male,9,23,PTSD,81,True,True,True,False,False,Depression,False,0,0,8.2,8,False,True,6,Medium,Senir,Adult
+1056,50,Female,3,24,Stress,130,True,True,True,False,True,Depression,True,2,2,7.6,9,False,True,10,High,Senir,Adult
+1057,40,Female,1,40,Caffeine,125,False,False,True,True,False,Anxiety,False,1,6,5.8,0,False,False,8,Medium,Senir,Adult
+1058,32,Female,3,39,Stress,91,True,False,False,False,False,None,True,4,0,7.3,4,False,True,5,Medium,Senir,Adult
+1059,50,Male,7,36,Social Anxiety,158,False,False,False,False,False,PTSD,True,0,1,6.9,0,False,True,8,Medium,Senir,Adult
+1060,42,Male,8,44,Unknown,133,True,False,True,False,False,Depression,True,5,0,4.6,3,False,False,7,Medium,Senir,Adult
+1061,34,Female,2,28,PTSD,99,True,True,True,False,True,Depression,True,2,3,5.2,4,False,False,7,Medium,Senir,Adult
+1062,50,Female,6,21,Unknown,144,True,True,True,False,True,PTSD,False,5,3,5.7,2,False,True,7,Medium,Senir,Adult
+1063,64,Male,8,11,Stress,132,True,False,True,True,False,Anxiety,True,4,2,5,1,True,False,9,High,Senir,Adult
+1064,19,Female,3,5,Caffeine,105,True,True,False,False,False,Anxiety,True,0,4,4.8,5,True,False,6,Medium,Adolescent,Adolescent
+1065,31,Male,9,39,Social Anxiety,116,False,True,False,False,False,Depression,False,4,0,4.3,2,False,True,6,Medium,Senir,Adult
+1066,57,Female,2,36,Social Anxiety,136,False,False,False,True,False,PTSD,True,5,3,8.4,9,False,False,9,High,Senir,Adult
+1067,57,Male,4,40,Unknown,140,False,False,False,True,True,Anxiety,True,0,4,5.4,0,False,False,6,Medium,Senir,Adult
+1068,56,Non-binary,0,17,Caffeine,124,False,True,True,False,True,None,True,3,6,5.5,4,True,True,7,Medium,Senir,Adult
+1069,23,Male,2,10,Caffeine,89,False,False,False,False,False,Depression,True,0,6,5,1,False,True,7,Medium,Adolescent,Adolescent
+1070,23,Male,7,18,Stress,150,True,False,False,False,False,Anxiety,True,2,3,6.4,1,False,False,2,Low,Adolescent,Adolescent
+1071,20,Male,7,41,Unknown,86,False,False,False,False,True,Anxiety,True,5,4,6.6,3,False,False,8,Medium,Adolescent,Adolescent
+1072,24,Male,3,19,Unknown,149,True,True,True,False,False,Anxiety,False,4,4,5,3,True,True,6,Medium,Adolescent,Adolescent
+1073,25,Female,1,8,Phobia,142,True,True,False,False,True,PTSD,True,4,3,7,3,False,False,4,Medium,Senir,Adult
+1074,59,Non-binary,7,44,Unknown,99,True,True,False,False,True,None,True,4,5,7.6,6,True,False,7,Medium,Senir,Adult
+1075,32,Male,7,20,Social Anxiety,150,True,True,False,True,False,Depression,False,1,1,5.9,0,True,False,8,Medium,Senir,Adult
+1076,64,Male,9,32,Stress,141,True,True,True,False,False,None,False,1,4,6.9,7,False,False,1,Low,Senir,Adult
+1077,46,Female,3,20,Caffeine,142,False,True,False,False,False,PTSD,False,2,6,6.5,9,True,True,10,High,Senir,Adult
+1078,50,Female,2,8,Unknown,98,True,True,False,False,True,Depression,False,3,5,5,8,True,True,4,Medium,Senir,Adult
+1079,47,Female,1,30,Stress,86,True,False,False,False,True,Depression,True,1,0,7.7,9,False,False,4,Medium,Senir,Adult
+1080,56,Male,8,32,Unknown,136,True,True,False,False,False,Depression,False,0,5,8,5,True,True,10,High,Senir,Adult
+1081,44,Male,0,36,Caffeine,124,True,False,False,True,True,Depression,True,5,3,7.2,3,False,False,9,High,Senir,Adult
+1082,53,Female,6,6,PTSD,109,True,False,True,True,False,Anxiety,True,2,5,5.6,5,True,True,6,Medium,Senir,Adult
+1083,46,Male,4,35,Caffeine,87,True,True,False,True,False,Depression,False,3,1,8.6,9,False,True,4,Medium,Senir,Adult
+1084,55,Female,7,7,Caffeine,93,True,False,True,True,False,Anxiety,False,0,3,6.3,6,False,True,1,Low,Senir,Adult
+1085,50,Male,3,12,Caffeine,104,True,True,False,False,True,PTSD,False,4,2,5.3,5,True,False,8,Medium,Senir,Adult
+1086,54,Female,6,28,Unknown,88,False,True,True,True,False,PTSD,False,1,0,6,0,False,False,9,High,Senir,Adult
+1087,44,Male,4,19,Phobia,107,False,False,False,True,True,Anxiety,True,0,6,7.5,4,False,True,5,Medium,Senir,Adult
+1088,50,Female,4,35,Caffeine,158,True,True,False,False,True,Anxiety,False,3,2,8.2,7,True,True,5,Medium,Senir,Adult
+1089,21,Female,8,13,Social Anxiety,114,True,False,False,False,True,Depression,False,2,5,5.8,7,False,True,10,High,Adolescent,Adolescent
+1090,39,Female,8,43,Social Anxiety,115,True,True,False,True,True,Depression,False,0,4,5.2,9,True,False,8,Medium,Senir,Adult
+1091,19,Male,8,6,Stress,149,False,False,False,False,False,Anxiety,False,2,5,7.1,8,True,True,8,Medium,Adolescent,Adolescent
+1092,27,Female,5,12,Phobia,101,True,True,False,False,True,Depression,False,4,6,8.6,3,True,False,5,Medium,Senir,Adult
+1093,22,Female,5,11,Stress,119,True,False,True,True,True,Anxiety,True,3,6,4.9,9,False,False,4,Medium,Adolescent,Adolescent
+1094,27,Female,4,43,Social Anxiety,158,False,True,True,True,False,Anxiety,False,3,4,8,5,False,True,6,Medium,Senir,Adult
+1095,50,Female,8,20,Social Anxiety,106,True,False,True,False,True,Anxiety,True,1,2,6.4,6,False,False,10,High,Senir,Adult
+1096,55,Female,9,39,PTSD,126,True,False,True,False,False,Anxiety,True,5,2,8,4,False,True,5,Medium,Senir,Adult
+1097,30,Female,7,34,Caffeine,116,True,True,False,False,True,PTSD,False,3,4,6.5,7,False,False,8,Medium,Senir,Adult
+1098,48,Male,6,14,Social Anxiety,109,False,False,False,True,True,None,True,0,1,5.9,2,False,True,9,High,Senir,Adult
+1099,64,Female,6,42,Unknown,92,False,True,False,False,False,Depression,False,0,0,7.5,7,False,True,1,Low,Senir,Adult
+1100,53,Female,5,22,Unknown,151,False,False,True,False,True,Depression,True,0,3,8.5,4,False,False,9,High,Senir,Adult
+1101,62,Male,4,9,Stress,155,True,True,True,True,False,Anxiety,False,4,2,5.6,0,True,True,9,High,Senir,Adult
+1102,41,Male,3,33,Stress,107,True,False,False,False,True,Depression,True,3,0,6.3,5,False,False,6,Medium,Senir,Adult
+1103,32,Male,2,43,Caffeine,129,False,False,False,False,True,Anxiety,True,3,3,5.1,1,False,False,10,High,Senir,Adult
+1104,46,Female,2,38,Caffeine,127,False,True,True,True,True,Depression,True,0,5,4.9,6,False,False,5,Medium,Senir,Adult
+1105,25,Female,5,27,PTSD,121,True,True,False,False,True,None,False,1,3,7.9,8,False,True,7,Medium,Senir,Adult
+1106,22,Female,3,9,Phobia,150,False,True,False,False,True,Anxiety,True,1,2,5,2,False,False,8,Medium,Adolescent,Adolescent
+1107,46,Female,5,34,Stress,83,True,False,True,True,False,PTSD,False,3,1,8,9,False,False,9,High,Senir,Adult
+1108,64,Male,2,10,Caffeine,120,True,True,False,False,True,Anxiety,True,3,1,6.1,3,False,True,9,High,Senir,Adult
+1109,21,Male,3,8,Stress,85,True,True,True,True,True,Anxiety,True,2,0,9,3,False,False,10,High,Adolescent,Adolescent
+1110,29,Male,8,33,Caffeine,120,True,False,False,False,True,Anxiety,True,3,5,5,3,True,False,3,Low,Senir,Adult
+1111,62,Male,4,27,Social Anxiety,114,False,True,True,True,False,Anxiety,False,0,0,4.5,2,False,True,8,Medium,Senir,Adult
+1112,19,Male,6,10,Stress,105,True,False,True,True,False,Anxiety,False,5,4,4.4,4,False,False,1,Low,Adolescent,Adolescent
+1113,44,Male,9,36,Social Anxiety,136,True,True,False,False,False,Anxiety,False,4,1,8.2,8,False,True,7,Medium,Senir,Adult
+1114,48,Female,1,22,Stress,124,False,True,True,False,False,Depression,True,3,0,6.2,7,False,True,5,Medium,Senir,Adult
+1115,53,Female,4,19,Phobia,144,False,False,False,False,True,Anxiety,False,3,4,4,9,False,True,2,Low,Senir,Adult
+1116,53,Non-binary,8,44,PTSD,103,True,True,True,True,True,Depression,False,0,5,8.4,1,True,False,2,Low,Senir,Adult
+1117,43,Non-binary,2,36,Unknown,151,True,True,True,True,False,None,True,2,6,8.4,8,False,True,8,Medium,Senir,Adult
+1118,60,Female,8,13,Unknown,105,True,False,True,False,False,Depression,False,5,3,8,9,False,False,5,Medium,Senir,Adult
+1119,44,Male,5,41,Unknown,79,True,True,True,False,True,Anxiety,False,3,0,5.2,1,False,False,3,Low,Senir,Adult
+1120,22,Female,3,14,Social Anxiety,152,False,False,False,True,True,Anxiety,True,1,4,5.9,6,False,False,1,Low,Adolescent,Adolescent
+1121,37,Female,6,24,Caffeine,120,False,False,True,False,False,PTSD,True,1,1,7.7,4,True,True,7,Medium,Senir,Adult
+1122,28,Male,7,10,Unknown,130,True,True,False,False,False,Depression,True,1,3,6.4,6,False,False,3,Low,Senir,Adult
+1123,27,Male,5,7,Phobia,103,True,True,False,False,True,Depression,False,4,0,4.8,4,False,False,7,Medium,Senir,Adult
+1124,57,Female,4,15,Unknown,132,True,False,False,False,False,Anxiety,True,4,1,5.2,5,False,True,2,Low,Senir,Adult
+1125,55,Male,5,21,Stress,145,False,True,True,True,True,Depression,True,5,6,8.9,7,False,False,4,Medium,Senir,Adult
+1126,23,Female,4,36,Social Anxiety,84,True,True,False,False,True,Anxiety,True,3,3,4.8,0,False,False,2,Low,Adolescent,Adolescent
+1127,25,Female,7,8,Stress,136,True,False,True,True,True,None,True,3,2,7.6,0,False,False,4,Medium,Senir,Adult
+1128,40,Male,0,8,Stress,148,True,True,True,False,True,PTSD,True,3,1,6.4,4,False,True,5,Medium,Senir,Adult
+1129,64,Male,6,21,Stress,131,True,False,True,False,True,Anxiety,False,4,2,7.7,0,False,True,8,Medium,Senir,Adult
+1130,43,Male,9,23,PTSD,144,True,True,True,False,False,Depression,True,5,5,7.3,2,False,True,2,Low,Senir,Adult
+1131,63,Male,9,9,PTSD,136,True,True,True,False,True,Anxiety,False,3,0,6.2,9,False,True,10,High,Senir,Adult
+1132,60,Male,1,36,Caffeine,80,False,True,False,False,False,Depression,True,0,6,5.8,8,False,False,3,Low,Senir,Adult
+1133,29,Female,8,26,Social Anxiety,154,False,False,True,False,True,PTSD,False,2,4,7.8,6,True,False,10,High,Senir,Adult
+1134,43,Male,0,10,Phobia,100,False,False,True,False,True,Depression,False,1,0,5.6,5,False,False,5,Medium,Senir,Adult
+1135,30,Female,9,39,Phobia,115,True,False,False,False,False,Anxiety,True,1,1,7.9,7,True,False,9,High,Senir,Adult
+1136,57,Male,5,26,Phobia,98,True,True,True,False,False,Anxiety,False,0,2,7.4,7,True,False,10,High,Senir,Adult
+1137,35,Non-binary,8,5,Stress,102,True,True,True,True,False,PTSD,False,3,2,6.9,5,False,True,5,Medium,Senir,Adult
+1138,42,Male,0,24,PTSD,143,True,True,True,True,False,Depression,False,5,3,5.8,3,False,False,9,High,Senir,Adult
+1139,50,Male,3,26,Social Anxiety,143,False,True,False,True,True,Depression,False,5,0,5,3,False,True,4,Medium,Senir,Adult
+1140,64,Female,3,15,Stress,79,True,True,True,False,True,Anxiety,False,4,0,7.6,3,True,True,10,High,Senir,Adult
+1141,57,Female,8,17,PTSD,81,True,False,True,False,False,Anxiety,False,3,1,4.5,5,False,False,5,Medium,Senir,Adult
+1142,60,Male,4,7,PTSD,124,False,True,False,False,False,None,False,5,2,8.9,0,False,True,9,High,Senir,Adult
+1143,29,Female,4,13,Unknown,133,False,False,False,False,False,Depression,False,3,1,8.9,1,False,True,4,Medium,Senir,Adult
+1144,61,Female,5,16,Unknown,153,True,True,False,False,False,Depression,False,1,1,4.7,5,False,False,5,Medium,Senir,Adult
+1145,53,Female,0,27,Social Anxiety,142,True,False,False,True,False,Depression,False,1,5,4.5,0,False,True,5,Medium,Senir,Adult
+1146,21,Male,0,18,Social Anxiety,123,True,True,True,True,True,PTSD,False,4,2,6.1,8,True,True,4,Medium,Adolescent,Adolescent
+1147,22,Male,8,37,Social Anxiety,104,True,True,True,False,False,Anxiety,False,1,1,8.8,5,False,True,4,Medium,Adolescent,Adolescent
+1148,54,Female,2,22,Stress,155,True,True,True,True,False,Anxiety,True,3,2,6,6,False,True,5,Medium,Senir,Adult
+1149,25,Female,3,13,Caffeine,143,True,True,True,False,False,Depression,False,0,1,5.8,0,False,True,6,Medium,Senir,Adult
+1150,59,Male,0,27,Social Anxiety,102,False,True,True,False,True,Depression,True,4,4,7.5,7,True,False,7,Medium,Senir,Adult
+1151,45,Female,8,14,Unknown,152,True,True,True,False,True,PTSD,False,0,1,4.9,4,False,True,6,Medium,Senir,Adult
+1152,48,Female,7,23,Caffeine,113,True,True,False,False,True,PTSD,True,3,1,5.8,4,False,False,1,Low,Senir,Adult
+1153,26,Male,1,9,Stress,102,True,False,False,False,True,Anxiety,True,4,6,5.5,5,True,True,2,Low,Senir,Adult
+1154,46,Female,7,27,Caffeine,106,True,False,True,True,False,Anxiety,False,0,4,7,6,False,True,7,Medium,Senir,Adult
+1155,31,Male,6,34,Phobia,158,False,False,False,False,True,None,True,4,0,4.8,6,False,False,3,Low,Senir,Adult
+1156,57,Female,5,29,Caffeine,94,True,True,True,False,True,Depression,False,3,2,6.7,4,False,False,10,High,Senir,Adult
+1157,58,Female,0,32,Social Anxiety,137,True,False,True,True,True,Depression,False,5,6,8.3,0,False,False,2,Low,Senir,Adult
+1158,39,Non-binary,6,38,Stress,132,True,True,False,True,False,Depression,True,4,3,6.6,8,True,False,6,Medium,Senir,Adult
+1159,28,Male,9,29,Social Anxiety,157,False,True,True,False,False,Depression,True,5,4,7.4,5,False,True,4,Medium,Senir,Adult
+1160,40,Male,6,14,Unknown,94,True,True,True,True,True,Anxiety,False,3,6,4.4,8,False,True,5,Medium,Senir,Adult
+1161,18,Male,8,18,Phobia,93,False,True,True,True,True,PTSD,True,4,0,6.2,3,False,False,6,Medium,Adolescent,Adolescent
+1162,63,Male,0,34,Unknown,89,True,True,False,False,True,PTSD,False,4,1,4.5,1,False,True,3,Low,Senir,Adult
+1163,54,Male,1,29,Social Anxiety,143,True,True,False,False,False,Depression,False,5,5,7,2,True,True,1,Low,Senir,Adult
+1164,38,Non-binary,8,18,Social Anxiety,157,True,True,True,True,True,Depression,True,1,0,5.4,3,False,True,3,Low,Senir,Adult
+1165,43,Male,8,39,Social Anxiety,146,False,False,False,True,False,Anxiety,True,5,4,5.4,9,False,False,3,Low,Senir,Adult
+1166,63,Male,5,38,PTSD,121,False,False,False,False,True,Anxiety,False,5,5,4.4,7,True,True,6,Medium,Senir,Adult
+1167,53,Female,5,14,Phobia,147,True,False,False,True,True,Anxiety,False,5,1,5.6,2,False,True,4,Medium,Senir,Adult
+1168,40,Male,3,39,Social Anxiety,91,True,False,False,False,False,Anxiety,True,3,0,6.5,7,False,True,7,Medium,Senir,Adult
+1169,18,Female,3,15,Social Anxiety,88,True,True,True,False,True,None,True,2,3,6.9,5,False,False,2,Low,Adolescent,Adolescent
+1170,57,Male,4,15,Unknown,153,True,False,True,True,False,PTSD,False,5,2,4.3,3,False,True,4,Medium,Senir,Adult
+1171,32,Female,2,25,Unknown,119,True,False,False,True,True,Depression,False,4,2,7.3,6,False,True,8,Medium,Senir,Adult
+1172,38,Male,0,25,Social Anxiety,128,False,True,False,True,False,Depression,True,0,4,6.4,4,False,False,6,Medium,Senir,Adult
+1173,64,Male,0,26,Stress,149,False,True,False,True,False,Anxiety,False,1,6,6.7,4,True,False,10,High,Senir,Adult
+1174,26,Non-binary,6,11,PTSD,137,True,False,False,True,False,None,False,5,1,8.2,8,False,False,3,Low,Senir,Adult
+1175,26,Male,0,21,Unknown,117,True,True,False,False,True,Anxiety,False,5,1,5.7,2,True,False,10,High,Senir,Adult
+1176,27,Female,0,6,Stress,81,False,False,False,True,True,Anxiety,False,1,2,4.9,9,False,True,2,Low,Senir,Adult
+1177,43,Male,2,16,PTSD,154,False,True,False,False,True,Depression,False,5,0,6.8,3,True,True,3,Low,Senir,Adult
+1178,58,Male,9,22,Social Anxiety,85,True,True,False,False,False,PTSD,False,4,1,8.7,4,True,True,1,Low,Senir,Adult
+1179,52,Female,3,15,Phobia,127,True,True,False,True,False,PTSD,False,2,3,6.6,0,True,False,1,Low,Senir,Adult
+1180,42,Male,3,20,Caffeine,104,True,True,True,True,True,Anxiety,False,5,3,8.2,6,False,True,2,Low,Senir,Adult
+1181,43,Female,1,22,Caffeine,111,True,False,True,True,True,PTSD,False,1,1,7.8,7,False,False,3,Low,Senir,Adult
+1182,28,Non-binary,0,39,Social Anxiety,126,True,False,True,True,True,Anxiety,False,5,1,6.6,5,False,False,9,High,Senir,Adult
+1183,55,Female,2,30,Unknown,157,True,True,False,False,True,Anxiety,True,3,2,7.2,8,True,True,8,Medium,Senir,Adult
+1184,19,Non-binary,3,20,Stress,80,True,True,False,True,True,PTSD,True,4,4,6,2,False,True,9,High,Adolescent,Adolescent
+1185,24,Male,2,10,Phobia,149,True,False,False,False,True,PTSD,False,4,2,6.7,1,False,True,7,Medium,Adolescent,Adolescent
+1186,35,Male,7,16,PTSD,110,True,False,True,False,False,Depression,True,2,4,6.5,4,False,True,7,Medium,Senir,Adult
+1187,44,Male,9,17,Social Anxiety,82,True,True,True,False,False,Depression,False,3,3,7.5,8,False,True,5,Medium,Senir,Adult
+1188,51,Female,0,8,Phobia,98,False,True,False,False,False,PTSD,True,3,4,6,0,False,False,7,Medium,Senir,Adult
+1189,44,Non-binary,1,43,Phobia,114,False,False,True,False,True,PTSD,False,2,2,4.5,0,False,True,4,Medium,Senir,Adult
+1190,34,Male,6,6,Unknown,110,True,False,True,True,False,PTSD,True,0,1,7.9,9,True,True,5,Medium,Senir,Adult
+1191,60,Female,3,30,PTSD,106,True,True,True,True,False,Depression,False,5,4,7.4,2,True,True,1,Low,Senir,Adult
+1192,61,Male,7,31,Phobia,155,False,True,True,False,True,None,False,3,2,8.8,9,False,False,4,Medium,Senir,Adult
+1193,41,Female,2,31,Unknown,79,True,False,False,True,False,None,True,0,3,6.1,2,False,False,3,Low,Senir,Adult
+1194,42,Female,5,19,Stress,138,True,False,True,False,True,Anxiety,False,0,5,4.4,4,True,False,2,Low,Senir,Adult
+1195,24,Non-binary,8,12,Unknown,134,True,True,False,False,True,PTSD,True,4,4,4.6,3,False,False,2,Low,Adolescent,Adolescent
+1196,23,Female,0,11,Stress,113,True,True,True,False,True,Depression,True,5,3,7.9,5,False,True,8,Medium,Adolescent,Adolescent
+1197,41,Male,0,44,Stress,108,True,False,False,False,True,Anxiety,True,4,3,4.3,7,False,True,1,Low,Senir,Adult
+1198,50,Male,7,16,Phobia,132,False,True,True,False,False,Depression,True,1,0,8.5,7,False,True,8,Medium,Senir,Adult
+1199,46,Male,2,17,Unknown,114,True,True,False,False,True,Anxiety,False,4,5,5.4,3,True,True,9,High,Senir,Adult
+1200,60,Male,4,21,Stress,133,True,True,False,False,True,Depression,True,3,4,8.5,0,False,False,6,Medium,Senir,Adult
+
