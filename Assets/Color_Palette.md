@@ -1,4 +1,4 @@
-## European Housing Dashboard Color Palette
+## Panic Attack Dashbroad Color Palette
 
 ### Core Colors
 | Color Name      | Hex Code | Usage Recommendations                 | 
